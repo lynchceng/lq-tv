@@ -1,4 +1,5 @@
 import requests
+import os
 
 def filter_m3u_playlist():
     # 读取需要保留的频道组
@@ -42,6 +43,12 @@ def filter_m3u_playlist():
             # 处理URL行
             if saveCurrentChannel and line.strip():
                 filterResultContent.append(line)
+    
+    # ========== 新增：自动创建 output 目录 ==========
+    output_dir = "output"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)  # 不存在就创建
+    # ==============================================
     
     # 保存过滤后的内容
     with open('output/kulaoResult.m3u', 'w', encoding='utf-8') as f:
