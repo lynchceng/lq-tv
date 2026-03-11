@@ -6,16 +6,14 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 18 * * *"
-    - cron: "30 18 * * *"
+    - cron: "0 18 * * *"   # 北京时间2:00开始串行执行两个脚本
   push:
     branches: [ main, master ]
   workflow_dispatch:
 
 jobs:
-  run-kulao-filter:
+  run-scripts:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 18 * * *' || github.event_name != 'schedule'
     steps:
       - uses: actions/checkout@v4
       - name: 配置Python环境
@@ -24,31 +22,14 @@ jobs:
           python-version: '3.11'
       - name: 安装依赖
         run: pip install requests
-      - name: 执行脚本
+      - name: 执行 KulaoFilter.py
         run: |
           mkdir -p output
           python KulaoFilter.py
-      - name: 提交KulaoFilter生成的文件
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "定时更新：KulaoFilter 生成的文件（北京时间2:00）"
-          file_pattern: "output/*"
-
-  run-iptv-collet:
-    runs-on: ubuntu-latest
-    if: github.event.schedule == '30 18 * * *' || github.event_name != 'schedule'
-    steps:
-      - uses: actions/checkout@v4
-      - name: 配置Python环境
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: 安装依赖
-        run: pip install requests
-      - name: 执行脚本
+      - name: 执行 IptvCollet.py
         run: python IptvCollet.py
-      - name: 提交IptvCollet生成的文件
+      - name: 提交生成的文件
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "定时更新：IptvCollet 生成的文件（北京时间2:30）"
+          commit_message: "定时更新：TV 脚本生成文件"
           file_pattern: "output/*"
