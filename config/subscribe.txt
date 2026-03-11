@@ -1,0 +1,2 @@
+file: result.m3u
+url: https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
