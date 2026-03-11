@@ -1,43 +1,78 @@
-name: 定时执行相关脚本
+name: 定时执行 TV 相关脚本
 
 on:
-  # 定时触发（北京时间凌晨2:00/2:30）
   schedule:
-    - cron: "0 18 * * *"   # 对应北京时间 2:00
-    - cron: "30 18 * * *"  # 对应北京时间 2:30
-  # 推送代码时触发（首次配置就执行一次）
+    - cron: "0 18 * * *"   # 北京时间 2:00
+    - cron: "30 18 * * *"  # 北京时间 2:30
   push:
-    branches: [ main, master ]  # 替换成你仓库的主分支名（二选一即可）
-  # 手动触发（方便测试）
+    branches: [ main, master ]
   workflow_dispatch:
 
 jobs:
-  # 执行 KulaoFilter.py 的任务
-  run-kulao-filter:
+  # 日常定时（独立执行）
+  run-kulao-schedule:
+    if: github.event_name == 'schedule' && github.event.schedule == '0 18 * * *'
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 18 * * *' || github.event_name != 'schedule'
     steps:
       - uses: actions/checkout@v4
-      - name: 配置Python环境
+      - name: 配置Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - name: 安装依赖
         run: pip install requests
-      - name: 执行脚本
-        run: python KulaoFilter.py
+      - name: 执行 KulaoFilter.py
+        run: |
+          mkdir -p output
+          python KulaoFilter.py
+      # 新增：提交生成的文件到仓库
+      - name: 提交文件到GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "定时更新：KulaoFilter 生成的文件"
+          file_pattern: "output/*"  # 只提交output目录下的文件
 
-  # 执行 IptvCollet.py 的任务
-  run-iptv-collet:
+  run-iptv-schedule:
+    if: github.event_name == 'schedule' && github.event.schedule == '30 18 * * *'
     runs-on: ubuntu-latest
-    if: github.event.schedule == '30 18 * * *' || github.event_name != 'schedule'
     steps:
       - uses: actions/checkout@v4
-      - name: 配置Python环境
+      - name: 配置Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - name: 安装依赖
         run: pip install requests
-      - name: 执行脚本
+      - name: 执行 IptvCollet.py
         run: python IptvCollet.py
+      # 新增：提交生成的文件到仓库
+      - name: 提交文件到GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "定时更新：IptvCollet 生成的文件"
+          file_pattern: "output/*"
+
+  # 首次/手动触发（串行执行）
+  run-scripts-serial:
+    if: github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 配置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: 安装依赖
+        run: pip install requests
+      - name: 第一步：执行 KulaoFilter.py
+        run: |
+          mkdir -p output
+          python KulaoFilter.py
+      - name: 第二步：执行 IptvCollet.py
+        run: python IptvCollet.py
+      # 新增：提交生成的文件到仓库
+      - name: 提交文件到GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "手动/首次运行：更新output目录文件"
+          file_pattern: "output/*"
