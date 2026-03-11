@@ -294,7 +294,9 @@ def main():
     # 生成频道信息，按照channels.txt中的顺序
     for genre in channel_order:
         if genre in genre_channels:
-            for channel in genre_channels[genre]:
+            # 按照频道名称排序，确保相同频道的不同源放在一起
+            sorted_channels = sorted(genre_channels[genre], key=lambda x: x['name'])
+            for channel in sorted_channels:
                 logo = channel['logo']
                 logo_attr = f' tvg-logo="{logo}"' if logo else ''
                 output_lines.append(f"#EXTINF:-1 group-title=\"{genre}\" tvg-name=\"{channel['name']}\"{logo_attr},{channel['name']}")
