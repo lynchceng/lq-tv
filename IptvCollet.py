@@ -300,6 +300,12 @@ def main():
                 output_lines.append(f"#EXTINF:-1 group-title=\"{genre}\" tvg-name=\"{channel['name']}\"{logo_attr},{channel['name']}")
                 output_lines.append(channel['url'])
     
+    # ========== 新增：自动创建 output 目录 ==========
+    output_dir = "output"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)  # 不存在就创建
+    # ==============================================
+
     # 保存文件
     with open('output/result.m3u', 'w', encoding='utf-8') as f:
         f.write('\n'.join(output_lines))
