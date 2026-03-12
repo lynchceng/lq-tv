@@ -57,7 +57,7 @@ def load_channels():
                 if not line:
                     continue
                 if '#genre#' in line:
-                    current_genre = line.replace('#genre#', '').strip()
+                    current_genre = line.replace('#genre#', '').strip().rstrip(',')
                     print(f"找到频道组: {current_genre}")
                     channels[current_genre] = []
                 else:
@@ -206,9 +206,11 @@ def main():
     channel_icon_base = load_channel_icon()
     sources = load_subscribe_sources()
     
-    # 构建频道到频道组的映射
+    # 构建频道到频道组的映射，同时记录每个频道组中频道的顺序
     channel_to_genre = {}
+    genre_channel_order = {}
     for genre, channels in channels_config.items():
+        genre_channel_order[genre] = channels
         for channel in channels:
             channel_to_genre[channel] = genre
     
@@ -265,7 +267,7 @@ def main():
                         'name': standard_name,
                         'url': url,
                         'genre': genre,
-                        'logo': channel.get('tvg_logo', '') or (channel_icon_base + standard_name + '.png') if channel_icon_base else ''
+                        'logo': channel_icon_base + standard_name + '.png' if channel_icon_base else ''
                     }
                     print(f"添加频道: {standard_name} (频道组: {genre})")
         else:
@@ -288,14 +290,26 @@ def main():
         for line in f:
             line = line.strip()
             if '#genre#' in line:
-                genre = line.replace('#genre#', '').strip()
+                genre = line.replace('#genre#', '').strip().rstrip(',')
                 channel_order.append(genre)
     
     # 生成频道信息，按照channels.txt中的顺序
     for genre in channel_order:
         if genre in genre_channels:
-            # 按照频道名称排序，确保相同频道的不同源放在一起
-            sorted_channels = sorted(genre_channels[genre], key=lambda x: x['name'])
+            # 按照channels.txt中定义的顺序排序频道
+            # 首先按照channels.txt中的顺序对频道名称排序
+            channel_order_in_genre = genre_channel_order.get(genre, [])
+            
+            # 定义排序键函数
+            def get_channel_order(channel_info):
+                channel_name = channel_info['name']
+                if channel_name in channel_order_in_genre:
+                    return channel_order_in_genre.index(channel_name)
+                return len(channel_order_in_genre)  # 不在列表中的频道放在最后
+            
+            # 排序频道
+            sorted_channels = sorted(genre_channels[genre], key=get_channel_order)
+            
             for channel in sorted_channels:
                 logo = channel['logo']
                 logo_attr = f' tvg-logo="{logo}"' if logo else ''
