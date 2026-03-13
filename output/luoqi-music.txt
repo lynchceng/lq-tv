@@ -29,7 +29,7 @@ DJ专场,https://live.ottiptv.cc/huya/20432228
 日语专场,https://live.ottiptv.cc/huya/21241795
 海选专场,https://live.ottiptv.cc/huya/21241781
 
-周杰伦歌曲,#genre#
+🎙️周杰伦歌曲,#genre#
 即兴曲,https://cfss.cc/api/kg/13559898.mp4
 夜曲,https://cfss.cc/api/kg/596344.mp4
 傻笑,https://cfss.cc/api/kg/596984.mp4
@@ -188,3 +188,4 @@ Tank精选,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000covn6
 国潮DJ舞曲点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5254856460919464679_hlsb.m3u8
 中文DJ舞曲点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5225020119572067546_hlsb.m3u8
 DJ舞曲串烧点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5259923016524978973_hlsb.m3u8
+
