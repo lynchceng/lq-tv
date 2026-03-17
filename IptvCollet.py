@@ -1,6 +1,7 @@
 import re
 import requests
 import os
+from datetime import datetime
 
 def load_alias_map():
     """加载频道别名映射"""
@@ -207,12 +208,14 @@ def main():
     sources = load_subscribe_sources()
     
     # 构建频道到频道组的映射，同时记录每个频道组中频道的顺序
-    channel_to_genre = {}
+    channel_to_genre = {}  # 频道到频道组列表的映射
     genre_channel_order = {}
     for genre, channels in channels_config.items():
         genre_channel_order[genre] = channels
         for channel in channels:
-            channel_to_genre[channel] = genre
+            if channel not in channel_to_genre:
+                channel_to_genre[channel] = []
+            channel_to_genre[channel].append(genre)
     
     # 打印频道配置信息
     print("频道配置信息:")
@@ -257,24 +260,35 @@ def main():
         
         # 检查是否在配置的频道列表中
         if standard_name in channel_to_genre:
-            genre = channel_to_genre[standard_name]
+            genres = channel_to_genre[standard_name]
             # 去重：同一频道组下同一URL不重复
             url = channel.get('url', '')
             if url:
-                key = f"{genre}-{standard_name}-{url}"
-                if key not in processed_channels:
-                    processed_channels[key] = {
-                        'name': standard_name,
-                        'url': url,
-                        'genre': genre,
-                        'logo': channel_icon_base + standard_name + '.png' if channel_icon_base else ''
-                    }
-                    print(f"添加频道: {standard_name} (频道组: {genre})")
+                for genre in genres:
+                    key = f"{genre}-{standard_name}-{url}"
+                    if key not in processed_channels:
+                        processed_channels[key] = {
+                            'name': standard_name,
+                            'url': url,
+                            'genre': genre,
+                            'logo': channel_icon_base + standard_name + '.png' if channel_icon_base else ''
+                        }
+                        print(f"添加频道: {standard_name} (频道组: {genre})")
         else:
             print(f"跳过频道: {name} (标准名称: {standard_name})")
     
     # 生成m3u文件
-    output_lines = ['#EXTM3U']
+    # 获取当前日期，格式为 YYYY.M.D（月份和日期不带前导零）
+    now = datetime.now()
+    current_date = f'{now.year}.{now.month}.{now.day}'
+    update_time = f'更新时间{current_date}'
+    
+    # 添加固定头部内容
+    output_lines = [
+        '#EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"',
+        f'#EXTINF:-1 group-title="洛奇TV" tvg-name="{update_time}" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",{update_time}',
+        'http://xxxxxx.mp4'
+    ]
     
     # 按照channels.txt中的顺序排序频道组
     genre_channels = {}
