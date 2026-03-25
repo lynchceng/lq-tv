@@ -275,7 +275,32 @@ def main():
                         }
                         print(f"添加频道: {standard_name} (频道组: {genre})")
         else:
-            print(f"跳过频道: {name} (标准名称: {standard_name})")
+            # 检查频道所属的组是否在channels.txt中定义
+            channel_group = channel.get('group', '')
+            # 尝试匹配频道组名称（忽略emoji等特殊字符）
+            matched_genre = None
+            for genre in channels_config:
+                # 去除emoji和特殊字符后比较
+                clean_genre = ''.join([c for c in genre if c.isalnum() or c in '-_ 中文'])
+                clean_channel_group = ''.join([c for c in channel_group if c.isalnum() or c in '-_ 中文'])
+                if clean_genre == clean_channel_group:
+                    matched_genre = genre
+                    break
+            if matched_genre:
+                # 去重：同一频道组下同一URL不重复
+                url = channel.get('url', '')
+                if url:
+                    key = f"{matched_genre}-{standard_name}-{url}"
+                    if key not in processed_channels:
+                        processed_channels[key] = {
+                            'name': standard_name,
+                            'url': url,
+                            'genre': matched_genre,
+                            'logo': channel_icon_base + standard_name + '.png' if channel_icon_base else ''
+                        }
+                        print(f"添加频道: {standard_name} (频道组: {matched_genre}, 动态频道)")
+            else:
+                print(f"跳过频道: {name} (标准名称: {standard_name})")
     
     # 生成m3u文件
     # 获取当前日期，格式为 YYYY.M.D（月份和日期不带前导零）
