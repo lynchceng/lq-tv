@@ -561,6 +561,46 @@ http://156.238.248.80:8880/play/431.533298.m3u8
 http://156.238.248.80:8880/play/473.590541.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV17.png",CCTV17
 http://156.238.248.80:8880/play/1547.729176.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-1.png",CETV-1
+https://iptv.catvod.com/live.php?id=CETV1
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-1.png",CETV-1
+https://iptv.catvod.com/live.php?id=CETV1&line=1
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-1.png",CETV-1
+https://migu.188766.xyz/?migutoken=36ef7f6bca62cec9abdcde133fce0012&id=CETV1&type=yy
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-1.png",CETV-1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-1.png",CETV-1
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-2.png",CETV-2
+https://iptv.catvod.com/live.php?id=CETV2&line=1
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-2.png",CETV-2
+https://iptv.catvod.com/live.php?id=CETV2
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-2.png",CETV-2
+https://migu.188766.xyz/?migutoken=933375f10f59db6fe40d9315edf498e2&id=CETV2&type=yy
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-2.png",CETV-2
+http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-2.png",CETV-2
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-3.png",CETV-3
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-3.png",CETV-3
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-3.png",CETV-3
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-3.png",CETV-3
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-3.png",CETV-3
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-4.png",CETV-4
+https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CETV4&type=yy
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-4.png",CETV-4
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-4.png",CETV-4
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-4.png",CETV-4
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CETV-4.png",CETV-4
+https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
 #EXTINF:-1 group-title="💰央视付费" tvg-name="文化精品" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/文化精品.png",文化精品
 http://107.150.60.122/live/ysjp.m3u8
 #EXTINF:-1 group-title="💰央视付费" tvg-name="文化精品" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/文化精品.png",文化精品
@@ -1749,6 +1789,22 @@ https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="东森超视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/东森超视.png",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/惊悚悬疑.png",惊悚悬疑
+https://iptv.catvod.com/live.php?id=NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/惊悚悬疑.png",惊悚悬疑
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/惊悚悬疑.png",惊悚悬疑
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/惊悚悬疑.png",惊悚悬疑
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/惊悚悬疑.png",惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动作电影.png",动作电影
+https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动作电影.png",动作电影
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动作电影.png",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界4K.png",咪视界4K
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="至臻视界4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/至臻视界4K.png",至臻视界4K
@@ -2045,6 +2101,138 @@ http://156.238.248.80:8880/play/2011.461511.m3u8
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界45" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界45.png",咪视界45
 http://156.238.248.80:8880/play/2012.283284.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTA 萨巴伦卡VS郑钦文 【全场回放】（刘钟鸣） 23:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTA 萨巴伦卡VS郑钦文 【全场回放】（刘钟鸣） 23:00.png",WTA 萨巴伦卡VS郑钦文 【全场回放】（刘钟鸣） 23:00
+http://156.238.248.80:8880/play/154.290801.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTA 萨巴伦卡VS郑钦文 【全场回放】 23:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTA 萨巴伦卡VS郑钦文 【全场回放】 23:00.png",WTA 萨巴伦卡VS郑钦文 【全场回放】 23:00
+http://156.238.248.80:8880/play/155.259627.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 76人VS雷霆 全场回放（罗森） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 76人VS雷霆 全场回放（罗森） 06:55.png",NBA 76人VS雷霆 全场回放（罗森） 06:55
+http://156.238.248.80:8880/play/156.896059.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 76人VS雷霆 全场回放（英文原声） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 76人VS雷霆 全场回放（英文原声） 06:55.png",NBA 76人VS雷霆 全场回放（英文原声） 06:55
+http://156.238.248.80:8880/play/157.451154.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 活塞VS湖人 全场回放（李天宇、陈正昊、王羽希） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 活塞VS湖人 全场回放（李天宇、陈正昊、王羽希） 06:55.png",NBA 活塞VS湖人 全场回放（李天宇、陈正昊、王羽希） 06:55
+http://156.238.248.80:8880/play/158.333395.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 活塞VS湖人 全场回放（英文原声） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 活塞VS湖人 全场回放（英文原声） 06:55.png",NBA 活塞VS湖人 全场回放（英文原声） 06:55
+http://156.238.248.80:8880/play/159.370586.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 魔术VS步行者 全场回放（盛哲） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 魔术VS步行者 全场回放（盛哲） 06:55.png",NBA 魔术VS步行者 全场回放（盛哲） 06:55
+http://156.238.248.80:8880/play/160.664562.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 魔术VS步行者 全场回放（英文原声） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 魔术VS步行者 全场回放（英文原声） 06:55.png",NBA 魔术VS步行者 全场回放（英文原声） 06:55
+http://156.238.248.80:8880/play/161.736050.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 热火VS马刺 全场回放（王晓晨） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 热火VS马刺 全场回放（王晓晨） 06:55.png",NBA 热火VS马刺 全场回放（王晓晨） 06:55
+http://156.238.248.80:8880/play/162.229822.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 热火VS马刺 全场回放（英文原声） 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 热火VS马刺 全场回放（英文原声） 06:55.png",NBA 热火VS马刺 全场回放（英文原声） 06:55
+http://156.238.248.80:8880/play/163.399215.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 老鹰VS灰熊 全场回放（贾磊） 07:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 老鹰VS灰熊 全场回放（贾磊） 07:25.png",NBA 老鹰VS灰熊 全场回放（贾磊） 07:25
+http://156.238.248.80:8880/play/164.623841.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 老鹰VS灰熊 全场回放（英文原声） 07:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 老鹰VS灰熊 全场回放（英文原声） 07:25.png",NBA 老鹰VS灰熊 全场回放（英文原声） 07:25
+http://156.238.248.80:8880/play/165.723693.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 公牛VS火箭 全场回放（连睿、周鹏、王润陶、裴优） 07:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 公牛VS火箭 全场回放（连睿、周鹏、王润陶、裴优） 07:55.png",NBA 公牛VS火箭 全场回放（连睿、周鹏、王润陶、裴优） 07:55
+http://156.238.248.80:8880/play/166.565308.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 公牛VS火箭 全场回放（英文原声） 07:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 公牛VS火箭 全场回放（英文原声） 07:55.png",NBA 公牛VS火箭 全场回放（英文原声） 07:55
+http://156.238.248.80:8880/play/167.817270.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 爵士VS猛龙 全场回放（刘芳宇） 08:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 爵士VS猛龙 全场回放（刘芳宇） 08:55.png",NBA 爵士VS猛龙 全场回放（刘芳宇） 08:55
+http://156.238.248.80:8880/play/168.907703.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 爵士VS猛龙 全场回放（英文原声） 08:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 爵士VS猛龙 全场回放（英文原声） 08:55.png",NBA 爵士VS猛龙 全场回放（英文原声） 08:55
+http://156.238.248.80:8880/play/169.848373.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 独行侠VS勇士 全场回放（杨健、曾令旭、闫宇峰、小七） 09:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 独行侠VS勇士 全场回放（杨健、曾令旭、闫宇峰、小七） 09:25.png",NBA 独行侠VS勇士 全场回放（杨健、曾令旭、闫宇峰、小七） 09:25
+http://156.238.248.80:8880/play/170.154962.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 独行侠VS勇士 全场回放（拜月宁） 09:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 独行侠VS勇士 全场回放（拜月宁） 09:25.png",NBA 独行侠VS勇士 全场回放（拜月宁） 09:25
+http://156.238.248.80:8880/play/171.613558.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 独行侠VS勇士 全场回放（英文原声） 09:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 独行侠VS勇士 全场回放（英文原声） 09:25.png",NBA 独行侠VS勇士 全场回放（英文原声） 09:25
+http://156.238.248.80:8880/play/172.635505.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 开拓者VS篮网 全场回放（姜帆、季孟年） 09:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 开拓者VS篮网 全场回放（姜帆、季孟年） 09:55.png",NBA 开拓者VS篮网 全场回放（姜帆、季孟年） 09:55
+http://156.238.248.80:8880/play/173.347351.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 开拓者VS篮网 全场回放（邢晨） 09:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 开拓者VS篮网 全场回放（邢晨） 09:55.png",NBA 开拓者VS篮网 全场回放（邢晨） 09:55
+http://156.238.248.80:8880/play/174.868198.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 开拓者VS篮网 全场回放（英文原声） 09:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 开拓者VS篮网 全场回放（英文原声） 09:55.png",NBA 开拓者VS篮网 全场回放（英文原声） 09:55
+http://156.238.248.80:8880/play/175.996536.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 快船VS雄鹿 全场回放（孙博） 10:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 快船VS雄鹿 全场回放（孙博） 10:25.png",NBA 快船VS雄鹿 全场回放（孙博） 10:25
+http://156.238.248.80:8880/play/176.692028.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBA 快船VS雄鹿 全场回放（英文原声） 10:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 快船VS雄鹿 全场回放（英文原声） 10:25.png",NBA 快船VS雄鹿 全场回放（英文原声） 10:25
+http://156.238.248.80:8880/play/177.159465.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBL 江西鲸裕清酒VS石家庄翔蓝 全场回放（官方解说） 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 江西鲸裕清酒VS石家庄翔蓝 全场回放（官方解说） 19:20.png",NBL 江西鲸裕清酒VS石家庄翔蓝 全场回放（官方解说） 19:20
+http://156.238.248.80:8880/play/178.984471.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBL 江西鲸裕清酒VS石家庄翔蓝 全场回放（原声） 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 江西鲸裕清酒VS石家庄翔蓝 全场回放（原声） 19:20.png",NBL 江西鲸裕清酒VS石家庄翔蓝 全场回放（原声） 19:20
+http://156.238.248.80:8880/play/179.309779.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBL 香港金牛VS盐南苏科雄狮 全场回放（官方解说） 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 香港金牛VS盐南苏科雄狮 全场回放（官方解说） 19:20.png",NBL 香港金牛VS盐南苏科雄狮 全场回放（官方解说） 19:20
+http://156.238.248.80:8880/play/180.577341.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="NBL 香港金牛VS盐南苏科雄狮 全场回放（原声） 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 香港金牛VS盐南苏科雄狮 全场回放（原声） 19:20.png",NBL 香港金牛VS盐南苏科雄狮 全场回放（原声） 19:20
+http://156.238.248.80:8880/play/181.858945.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（一号桌）（一） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（一号桌）（一） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（一号桌）（一） 17:00
+http://156.238.248.80:8880/play/182.346408.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（一号桌）（二） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（一号桌）（二） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（一号桌）（二） 17:00
+http://156.238.248.80:8880/play/183.825380.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（二号桌）（一） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（二号桌）（一） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（二号桌）（一） 17:00
+http://156.238.248.80:8880/play/184.677500.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（三号桌）（一） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（三号桌）（一） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（三号桌）（一） 17:00
+http://156.238.248.80:8880/play/185.943493.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（三号桌）（二） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（三号桌）（二） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（三号桌）（二） 17:00
+http://156.238.248.80:8880/play/186.145896.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（四号桌）（一） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（四号桌）（一） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（四号桌）（一） 17:00
+http://156.238.248.80:8880/play/187.712647.m3u8
+#EXTINF:-1 group-title="🏀体育-昨天" tvg-name="WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（四号桌）（二） 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（四号桌）（二） 17:00.png",WTT 汪洋压台迎连胜 杨晓馨3-1取胜 全场回放（四号桌）（二） 17:00
+http://156.238.248.80:8880/play/188.612510.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 黄蜂VS国王 董倡硕 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 黄蜂VS国王 董倡硕 06:55.png",NBA 黄蜂VS国王 董倡硕 06:55
+http://156.238.248.80:8880/play/189.671633.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 黄蜂VS国王 英文原声 06:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 黄蜂VS国王 英文原声 06:55.png",NBA 黄蜂VS国王 英文原声 06:55
+http://156.238.248.80:8880/play/190.429988.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="WTA 高芙PK本西奇 穆霍娃闯入四强 赛场原声 02:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTA 高芙PK本西奇 穆霍娃闯入四强 赛场原声 02:00.png",WTA 高芙PK本西奇 穆霍娃闯入四强 赛场原声 02:00
+http://156.238.248.80:8880/play/191.684133.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="WTA 高芙PK本西奇 穆霍娃闯入四强 英文原声 02:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTA 高芙PK本西奇 穆霍娃闯入四强 英文原声 02:00.png",WTA 高芙PK本西奇 穆霍娃闯入四强 英文原声 02:00
+http://156.238.248.80:8880/play/192.186715.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 尼克斯VS鹈鹕 刘圳展 07:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 尼克斯VS鹈鹕 刘圳展 07:25.png",NBA 尼克斯VS鹈鹕 刘圳展 07:25
+http://156.238.248.80:8880/play/193.482045.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 尼克斯VS鹈鹕 英文原声 07:25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 尼克斯VS鹈鹕 英文原声 07:25.png",NBA 尼克斯VS鹈鹕 英文原声 07:25
+http://156.238.248.80:8880/play/194.335556.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 骑士VS魔术 杨健 曾令旭 裴优 07:45" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 骑士VS魔术 杨健 曾令旭 裴优 07:45.png",NBA 骑士VS魔术 杨健 曾令旭 裴优 07:45
+http://156.238.248.80:8880/play/195.178737.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 骑士VS魔术 英文原声 07:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 骑士VS魔术 英文原声 07:55.png",NBA 骑士VS魔术 英文原声 07:55
+http://156.238.248.80:8880/play/196.882668.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 骑士VS魔术 智能字幕 07:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 骑士VS魔术 智能字幕 07:55.png",NBA 骑士VS魔术 智能字幕 07:55
+http://156.238.248.80:8880/play/197.947469.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="全国撑竿跳高单项赛 全国撑竿跳高单项赛第4站 官方解说 09:45" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/全国撑竿跳高单项赛 全国撑竿跳高单项赛第4站 官方解说 09:45.png",全国撑竿跳高单项赛 全国撑竿跳高单项赛第4站 官方解说 09:45
+http://156.238.248.80:8880/play/198.301738.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 太阳VS掘金 庄宁宇 徐咏 陈正昊 10:45" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 太阳VS掘金 庄宁宇 徐咏 陈正昊 10:45.png",NBA 太阳VS掘金 庄宁宇 徐咏 陈正昊 10:45
+http://156.238.248.80:8880/play/199.545992.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 太阳VS掘金 英文原声 10:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 太阳VS掘金 英文原声 10:55.png",NBA 太阳VS掘金 英文原声 10:55
+http://156.238.248.80:8880/play/200.498406.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBA 太阳VS掘金 智能字幕 10:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBA 太阳VS掘金 智能字幕 10:55.png",NBA 太阳VS掘金 智能字幕 10:55
+http://156.238.248.80:8880/play/201.511107.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="亚冠精英 亚冠精英决赛阶段抽签仪式 涂远 14:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/亚冠精英 亚冠精英决赛阶段抽签仪式 涂远 14:55.png",亚冠精英 亚冠精英决赛阶段抽签仪式 涂远 14:55
+http://156.238.248.80:8880/play/202.290974.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="亚冠精英 亚冠精英决赛阶段抽签仪式 赛场原声 14:55" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/亚冠精英 亚冠精英决赛阶段抽签仪式 赛场原声 14:55.png",亚冠精英 亚冠精英决赛阶段抽签仪式 赛场原声 14:55
+http://156.238.248.80:8880/play/203.839543.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="LALIGA FC FUTURES全球锦标赛 小组赛第1轮-上海海港U12将战巴萨 解说 16:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/LALIGA FC FUTURES全球锦标赛 小组赛第1轮-上海海港U12将战巴萨 解说 16:20.png",LALIGA FC FUTURES全球锦标赛 小组赛第1轮-上海海港U12将战巴萨 解说 16:20
+http://156.238.248.80:8880/play/204.445280.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="WTT 陈思羽、汪洋领衔冲正赛 1号桌 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 陈思羽、汪洋领衔冲正赛 1号桌 17:00.png",WTT 陈思羽、汪洋领衔冲正赛 1号桌 17:00
+http://156.238.248.80:8880/play/205.187440.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="WTT 陈思羽、汪洋领衔冲正赛 2号桌 17:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 陈思羽、汪洋领衔冲正赛 2号桌 17:00.png",WTT 陈思羽、汪洋领衔冲正赛 2号桌 17:00
+http://156.238.248.80:8880/play/206.714768.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="WTT 陈思羽、汪洋领衔冲正赛 3号桌 17:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 陈思羽、汪洋领衔冲正赛 3号桌 17:35.png",WTT 陈思羽、汪洋领衔冲正赛 3号桌 17:35
+http://156.238.248.80:8880/play/207.900115.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="WTT 陈思羽、汪洋领衔冲正赛 4号桌 17:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/WTT 陈思羽、汪洋领衔冲正赛 4号桌 17:35.png",WTT 陈思羽、汪洋领衔冲正赛 4号桌 17:35
+http://156.238.248.80:8880/play/208.771713.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBL 上海玄鸟VS山东蜜獾 解说 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 上海玄鸟VS山东蜜獾 解说 19:20.png",NBL 上海玄鸟VS山东蜜獾 解说 19:20
+http://156.238.248.80:8880/play/209.879220.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBL 上海玄鸟VS山东蜜獾 赛场原声 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 上海玄鸟VS山东蜜獾 赛场原声 19:20.png",NBL 上海玄鸟VS山东蜜獾 赛场原声 19:20
+http://156.238.248.80:8880/play/210.454743.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBL 合肥狂风VS长沙勇胜 解说 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 合肥狂风VS长沙勇胜 解说 19:20.png",NBL 合肥狂风VS长沙勇胜 解说 19:20
+http://156.238.248.80:8880/play/211.915008.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="NBL 合肥狂风VS长沙勇胜 赛场原声 19:20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/NBL 合肥狂风VS长沙勇胜 赛场原声 19:20.png",NBL 合肥狂风VS长沙勇胜 赛场原声 19:20
+http://156.238.248.80:8880/play/212.563355.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="CBA 宁波町渥VS福建晋江文旅 图文直播 19:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CBA 宁波町渥VS福建晋江文旅 图文直播 19:35.png",CBA 宁波町渥VS福建晋江文旅 图文直播 19:35
+http://156.238.248.80:8880/play/213.981080.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="CBA 广东东阳光VS四川丰谷酒业 图文直播 19:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CBA 广东东阳光VS四川丰谷酒业 图文直播 19:35.png",CBA 广东东阳光VS四川丰谷酒业 图文直播 19:35
+http://156.238.248.80:8880/play/214.770299.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="CBA 长白山恩都里VS辽宁本钢 图文直播 19:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CBA 长白山恩都里VS辽宁本钢 图文直播 19:35.png",CBA 长白山恩都里VS辽宁本钢 图文直播 19:35
+http://156.238.248.80:8880/play/215.651520.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="CBA 山西汾酒VS上海久事 图文直播 19:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CBA 山西汾酒VS上海久事 图文直播 19:35.png",CBA 山西汾酒VS上海久事 图文直播 19:35
+http://156.238.248.80:8880/play/216.485967.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="CBA 北京北汽VS浙江稠州金租 图文直播 19:35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CBA 北京北汽VS浙江稠州金租 图文直播 19:35.png",CBA 北京北汽VS浙江稠州金租 图文直播 19:35
+http://156.238.248.80:8880/play/217.284943.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="CBA 新疆伊力特VS山东高速 图文直播 20:00" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CBA 新疆伊力特VS山东高速 图文直播 20:00.png",CBA 新疆伊力特VS山东高速 图文直播 20:00
+http://156.238.248.80:8880/play/218.765635.m3u8
+#EXTINF:-1 group-title="🏀体育-今天" tvg-name="LALIGA FC FUTURES全球锦标赛 小组赛第2轮-巴萨皇马U12梯队出战 解说 22:50" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/LALIGA FC FUTURES全球锦标赛 小组赛第2轮-巴萨皇马U12梯队出战 解说 22:50.png",LALIGA FC FUTURES全球锦标赛 小组赛第2轮-巴萨皇马U12梯队出战 解说 22:50
+http://156.238.248.80:8880/play/219.827194.m3u8
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
@@ -2129,3 +2317,57 @@ https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-15.ctv
 https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-12.m3u8
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="河北少儿科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/河北少儿科教.png",河北少儿科教
 https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-2.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/北京卡酷少儿.png",北京卡酷少儿
+https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/北京卡酷少儿.png",北京卡酷少儿
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/北京卡酷少儿.png",北京卡酷少儿
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/北京卡酷少儿.png",北京卡酷少儿
+https://migu.188766.xyz/?migutoken=1023983db6b5249e61d4950c1654cd84&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/北京卡酷少儿.png",北京卡酷少儿
+https://migu.188766.xyz/?migutoken=2c51384549aec8a85219fdc0c475e40b&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/哈哈炫动.png",哈哈炫动
+https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/哈哈炫动.png",哈哈炫动
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/哈哈炫动.png",哈哈炫动
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/哈哈炫动.png",哈哈炫动
+https://stream1.freetv.fun/ha-ha-xuan-dong-29.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/哈哈炫动.png",哈哈炫动
+https://stream1.freetv.fun/ha-ha-xuan-dong-8.m3u8
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="七龙珠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/七龙珠.png",七龙珠
+https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="七龙珠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/七龙珠.png",七龙珠
+https://live.metshop.top/huya/11601966
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="七龙珠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/七龙珠.png",七龙珠
+http://cdn.jdshipin.com:8880/huya.php?id=11601966
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="火影忍者" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/火影忍者.png",火影忍者
+http://cdn.jdshipin.com:8880/huya.php?id=29465866
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="海绵宝宝" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/海绵宝宝.png",海绵宝宝
+https://live.metshop.top/douyu/3949681
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="中华小当家" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/中华小当家.png",中华小当家
+https://live.metshop.top/huya/11342413
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="中华小当家" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/中华小当家.png",中华小当家
+https://live.iill.top/huya/11342413
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="中华小当家" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/中华小当家.png",中华小当家
+http://cdn.jdshipin.com:8880/huya.php?id=11342413
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="中华小当家" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/中华小当家.png",中华小当家
+https://live.ottiptv.cc/huya/11342413
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="猫和老鼠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/猫和老鼠.png",猫和老鼠
+https://live.iill.top/huya/11352879
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="猫和老鼠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/猫和老鼠.png",猫和老鼠
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="猫和老鼠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/猫和老鼠.png",猫和老鼠
+https://live.metshop.top/huya/11352879
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="猫和老鼠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/猫和老鼠.png",猫和老鼠
+http://cdn.jdshipin.com:8880/huya.php?id=11352879
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="猫和老鼠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/猫和老鼠.png",猫和老鼠
+https://live.ottiptv.cc/huya/11352879
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="蜡笔小新" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/蜡笔小新.png",蜡笔小新
+https://live.ottiptv.cc/bilibili/30837590
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="漫画解说" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/漫画解说.png",漫画解说
+https://www.goodiptv.club/douyu/5907076
+#EXTINF:-1 group-title="🪁动画频道" tvg-name="漫画解说" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/漫画解说.png",漫画解说
+https://yylunbo.ottiptv.cc/yy/1382735568
