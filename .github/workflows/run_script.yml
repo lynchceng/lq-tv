@@ -22,11 +22,13 @@ jobs:
           python-version: '3.11'
       - name: 安装依赖
         run: pip install requests
-      - name: 执行 KulaoFilter.py
+      - name: 执行 KulaoFilter.py(裤佬频道过滤)
         run: |
           mkdir -p output
           python KulaoFilter.py
-      - name: 执行 IptvCollet.py
+      - name: 执行 ParseRihou.py(日后源解密)
+        run: python ParseRihou.py    
+      - name: 执行 IptvCollet.py(汇总)
         run: python IptvCollet.py
       - name: 提交生成的文件
         uses: stefanzweifel/git-auto-commit-action@v5
