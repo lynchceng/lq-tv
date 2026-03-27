@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 group-title="洛奇TV" tvg-name="更新时间2026.3.26" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.3.26
+#EXTINF:-1 group-title="洛奇TV" tvg-name="更新时间2026.3.27" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.3.27
 http://xxxxxx.mp4
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV1.png",CCTV1
 http://107.150.60.122/live/cctv1hd.m3u8
@@ -1551,26 +1551,210 @@ https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动作电影.png",动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03-27⬇️NBA常规赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03-27⬇️NBA常规赛⬇️🏀📡.png",03-27⬇️NBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03-28⬇️NBA常规赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03-28⬇️NBA常规赛⬇️🏀📡.png",03-28⬇️NBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:00鹈鹕🆚活塞" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:00鹈鹕🆚活塞.png",07:00鹈鹕🆚活塞
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:00快船🆚步行者" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:00快船🆚步行者.png",07:00快船🆚步行者
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊27咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊27咪评述.png",国🔊27咪评述
-http://rihou.cc:555/tv/27NBA咪评述
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊27腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊27腾评述.png",国🔊27腾评述
-http://rihou.cc:555/tv/27NBA腾评述
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:00黄蜂🆚尼克斯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:00黄蜂🆚尼克斯.png",07:00黄蜂🆚尼克斯
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪评述.png",国🔊28咪评述
+http://rihou.cc:555/tv/28NBA咪评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾评述.png",国🔊28腾评述
+http://rihou.cc:555/tv/28NBA腾评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:30热火🆚骑士" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:30热火🆚骑士.png",07:30热火🆚骑士
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊27咪述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊27咪述评.png",国🔊27咪述评
-http://rihou.cc:555/tv/27NBA咪述评
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊27腾述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊27腾述评.png",国🔊27腾述评
-http://rihou.cc:555/tv/27NBA腾述评
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:00国王🆚魔术" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:00国王🆚魔术.png",07:00国王🆚魔术
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪述评.png",国🔊28咪述评
+http://rihou.cc:555/tv/28NBA咪述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾述评.png",国🔊28腾述评
+http://rihou.cc:555/tv/28NBA腾述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:30老鹰🆚凯尔特人" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:30老鹰🆚凯尔特人.png",07:30老鹰🆚凯尔特人
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊27咪评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊27咪评评.png",国🔊27咪评评
-http://rihou.cc:555/tv/27NBA咪评评
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊27腾评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊27腾评评.png",国🔊27腾评评
-http://rihou.cc:555/tv/27NBA腾评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪评评.png",国🔊28咪评评
+http://rihou.cc:555/tv/28NBA咪评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾评评.png",国🔊28腾评评
+http://rihou.cc:555/tv/28NBA腾评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:00火箭🆚灰熊" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00火箭🆚灰熊.png",08:00火箭🆚灰熊
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪述述.png",国🔊28咪述述
+http://rihou.cc:555/tv/28NBA咪述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾述述.png",国🔊28腾述述
+http://rihou.cc:555/tv/28NBA腾述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:00公牛🆚雷霆" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00公牛🆚雷霆.png",08:00公牛🆚雷霆
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪旁述.png",国🔊28咪旁述
+http://rihou.cc:555/tv/28NBA咪旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾旁述.png",国🔊28腾旁述
+http://rihou.cc:555/tv/28NBA腾旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:30鹈鹕🆚猛龙" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:30鹈鹕🆚猛龙.png",08:30鹈鹕🆚猛龙
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪述旁.png",国🔊28咪述旁
+http://rihou.cc:555/tv/28NBA咪述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾述旁.png",国🔊28腾述旁
+http://rihou.cc:555/tv/28NBA腾述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="09:00爵士🆚掘金" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/09:00爵士🆚掘金.png",09:00爵士🆚掘金
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪旁旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪旁旁.png",国🔊28咪旁旁
+http://rihou.cc:555/tv/28NBA咪旁旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾旁旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾旁旁.png",国🔊28腾旁旁
+http://rihou.cc:555/tv/28NBA腾旁旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="10:00独行侠🆚开拓者" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/10:00独行侠🆚开拓者.png",10:00独行侠🆚开拓者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪旁评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪旁评.png",国🔊28咪旁评
+http://rihou.cc:555/tv/28NBA咪旁评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾旁评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾旁评.png",国🔊28腾旁评
+http://rihou.cc:555/tv/28NBA腾旁评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="10:00奇才🆚勇士" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/10:00奇才🆚勇士.png",10:00奇才🆚勇士
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪评旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪评旁.png",国🔊28咪评旁
+http://rihou.cc:555/tv/28NBA咪评旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾评旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾评旁.png",国🔊28腾评旁
+http://rihou.cc:555/tv/28NBA腾评旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="10:30篮网🆚湖人" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/10:30篮网🆚湖人.png",10:30篮网🆚湖人
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28咪解评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28咪解评.png",国🔊28咪解评
+http://rihou.cc:555/tv/28NBA咪解评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊28腾解评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊28腾解评.png",国🔊28腾解评
+http://rihou.cc:555/tv/28NBA腾解评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03-29⬇️NBA常规赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03-29⬇️NBA常规赛⬇️🏀📡.png",03-29⬇️NBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03:00马刺🆚雄鹿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03:00马刺🆚雄鹿.png",03:00马刺🆚雄鹿
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29咪评述.png",国🔊29咪评述
+http://rihou.cc:555/tv/29NBA咪评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29腾评述.png",国🔊29腾评述
+http://rihou.cc:555/tv/29NBA腾评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="05:30活塞🆚木狼" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05:30活塞🆚木狼.png",05:30活塞🆚木狼
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29咪述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29咪述评.png",国🔊29咪述评
+http://rihou.cc:555/tv/29NBA咪述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29腾述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29腾述评.png",国🔊29腾述评
+http://rihou.cc:555/tv/29NBA腾述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="06:0076人🆚黄蜂" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06:0076人🆚黄蜂.png",06:0076人🆚黄蜂
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29咪评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29咪评评.png",国🔊29咪评评
+http://rihou.cc:555/tv/29NBA咪评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29腾评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29腾评评.png",国🔊29腾评评
+http://rihou.cc:555/tv/29NBA腾评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:30国王🆚老鹰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:30国王🆚老鹰.png",07:30国王🆚老鹰
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29咪述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29咪述述.png",国🔊29咪述述
+http://rihou.cc:555/tv/29NBA咪述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29腾述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29腾述述.png",国🔊29腾述述
+http://rihou.cc:555/tv/29NBA腾述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:00公牛🆚灰熊" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00公牛🆚灰熊.png",08:00公牛🆚灰熊
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29咪旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29咪旁述.png",国🔊29咪旁述
+http://rihou.cc:555/tv/29NBA咪旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29腾旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29腾旁述.png",国🔊29腾旁述
+http://rihou.cc:555/tv/29NBA腾旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="10:00爵士🆚太阳" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/10:00爵士🆚太阳.png",10:00爵士🆚太阳
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29咪述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29咪述旁.png",国🔊29咪述旁
+http://rihou.cc:555/tv/29NBA咪述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊29腾述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊29腾述旁.png",国🔊29腾述旁
+http://rihou.cc:555/tv/29NBA腾述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03-30⬇️NBA常规赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03-30⬇️NBA常规赛⬇️🏀📡.png",03-30⬇️NBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03:30快船🆚雄鹿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03:30快船🆚雄鹿.png",03:30快船🆚雄鹿
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪评述.png",国🔊30咪评述
+http://rihou.cc:555/tv/30NBA咪评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾评述.png",国🔊30腾评述
+http://rihou.cc:555/tv/30NBA腾评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="05:00热火🆚步行者" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05:00热火🆚步行者.png",05:00热火🆚步行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪述评.png",国🔊30咪述评
+http://rihou.cc:555/tv/30NBA咪述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾述评.png",国🔊30腾述评
+http://rihou.cc:555/tv/30NBA腾述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="06:00奇才🆚开拓者" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06:00奇才🆚开拓者.png",06:00奇才🆚开拓者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪评评.png",国🔊30咪评评
+http://rihou.cc:555/tv/30NBA咪评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾评评.png",国🔊30腾评评
+http://rihou.cc:555/tv/30NBA腾评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="06:00黄蜂🆚凯尔特人" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06:00黄蜂🆚凯尔特人.png",06:00黄蜂🆚凯尔特人
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪述述.png",国🔊30咪述述
+http://rihou.cc:555/tv/30NBA咪述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾述述.png",国🔊30腾述述
+http://rihou.cc:555/tv/30NBA腾述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="06:00国王🆚篮网" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06:00国王🆚篮网.png",06:00国王🆚篮网
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪旁述.png",国🔊30咪旁述
+http://rihou.cc:555/tv/30NBA咪旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾旁述.png",国🔊30腾旁述
+http://rihou.cc:555/tv/30NBA腾旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="06:00魔术🆚猛龙" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06:00魔术🆚猛龙.png",06:00魔术🆚猛龙
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪述旁.png",国🔊30咪述旁
+http://rihou.cc:555/tv/30NBA咪述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾述旁.png",国🔊30腾述旁
+http://rihou.cc:555/tv/30NBA腾述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:00火箭🆚鹈鹕" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:00火箭🆚鹈鹕.png",07:00火箭🆚鹈鹕
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪旁旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪旁旁.png",国🔊30咪旁旁
+http://rihou.cc:555/tv/30NBA咪旁旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾旁旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾旁旁.png",国🔊30腾旁旁
+http://rihou.cc:555/tv/30NBA腾旁旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:30雷霆🆚尼克斯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:30雷霆🆚尼克斯.png",07:30雷霆🆚尼克斯
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪旁评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪旁评.png",国🔊30咪旁评
+http://rihou.cc:555/tv/30NBA咪旁评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾旁评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾旁评.png",国🔊30腾旁评
+http://rihou.cc:555/tv/30NBA腾旁评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="10:00勇士🆚掘金" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/10:00勇士🆚掘金.png",10:00勇士🆚掘金
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30咪评旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30咪评旁.png",国🔊30咪评旁
+http://rihou.cc:555/tv/30NBA咪评旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊30腾评旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊30腾评旁.png",国🔊30腾评旁
+http://rihou.cc:555/tv/30NBA腾评旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="03-31⬇️NBA常规赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/03-31⬇️NBA常规赛⬇️🏀📡.png",03-31⬇️NBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="07:0076人🆚热火" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/07:0076人🆚热火.png",07:0076人🆚热火
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪评述.png",国🔊31咪评述
+http://rihou.cc:555/tv/31NBA咪评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾评述.png",国🔊31腾评述
+http://rihou.cc:555/tv/31NBA腾评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪述评.png",国🔊31咪述评
+http://rihou.cc:555/tv/31NBA咪述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾述评.png",国🔊31腾述评
+http://rihou.cc:555/tv/31NBA腾述评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:00太阳🆚灰熊" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00太阳🆚灰熊.png",08:00太阳🆚灰熊
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪评评.png",国🔊31咪评评
+http://rihou.cc:555/tv/31NBA咪评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾评评.png",国🔊31腾评评
+http://rihou.cc:555/tv/31NBA腾评评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:00公牛🆚马刺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00公牛🆚马刺.png",08:00公牛🆚马刺
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪述述.png",国🔊31咪述述
+http://rihou.cc:555/tv/31NBA咪述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾述述.png",国🔊31腾述述
+http://rihou.cc:555/tv/31NBA腾述述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:30木狼🆚独行侠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:30木狼🆚独行侠.png",08:30木狼🆚独行侠
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪旁述.png",国🔊31咪旁述
+http://rihou.cc:555/tv/31NBA咪旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾旁述.png",国🔊31腾旁述
+http://rihou.cc:555/tv/31NBA腾旁述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="09:00骑士🆚爵士" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/09:00骑士🆚爵士.png",09:00骑士🆚爵士
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪述旁.png",国🔊31咪述旁
+http://rihou.cc:555/tv/31NBA咪述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾述旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾述旁.png",国🔊31腾述旁
+http://rihou.cc:555/tv/31NBA腾述旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="09:30活塞🆚雷霆" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/09:30活塞🆚雷霆.png",09:30活塞🆚雷霆
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪旁旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪旁旁.png",国🔊31咪旁旁
+http://rihou.cc:555/tv/31NBA咪旁旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾旁旁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾旁旁.png",国🔊31腾旁旁
+http://rihou.cc:555/tv/31NBA腾旁旁
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="10:00奇才🆚湖人" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/10:00奇才🆚湖人.png",10:00奇才🆚湖人
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31咪旁评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31咪旁评.png",国🔊31咪旁评
+http://rihou.cc:555/tv/31NBA咪旁评
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊31腾旁评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊31腾旁评.png",国🔊31腾旁评
+http://rihou.cc:555/tv/31NBA腾旁评
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
