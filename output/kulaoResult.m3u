@@ -570,8 +570,6 @@ http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="唐人卫视" tvg-logo="https://epg.112114.xyz/logo/唐人卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唐人卫视
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",金鹰卡通
-http://8.138.7.223/tv/mgtv.php?id=287
-#EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",金鹰卡通
 http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -597,61 +595,3 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_94
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 #EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV爱情剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV爱情剧场.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV爱情剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NewTV-超级电视剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-超级电视剧
-http://111.56.90.5/000000000000/1000000006000268003/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-超级电影" tvg-logo="https://epg.112114.xyz/logo/NewTV-超级电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-超级电影
-http://111.56.90.5/000000000000/1000000003000012426/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-超级综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV-超级综艺.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-超级综艺
-http://111.56.90.5/000000000000/1000000006000268002/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-超级体育" tvg-logo="https://epg.112114.xyz/logo/NewTV-超级体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-超级体育
-http://111.56.90.5/000000000000/1000000001000009601/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NewTV-惊悚悬疑.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-惊悚悬疑
-http://111.56.90.5/000000000000/1000000004000024282/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NewTV-精品萌宠.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-精品萌宠
-http://111.56.90.5/000000000000/1000000006000032328/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-精品体育" tvg-logo="https://epg.112114.xyz/logo/NewTV-精品体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-精品体育
-http://111.56.90.5/000000000000/1000000004000014634/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-精品综合" tvg-logo="https://epg.112114.xyz/logo/NewTV-精品综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-精品综合
-http://111.56.90.5/000000000000/1000000004000019008/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-黑莓动画" tvg-logo="https://epg.112114.xyz/logo/NewTV-黑莓动画.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-黑莓动画
-http://111.56.90.5/000000000000/1000000004000021734/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-黑莓电影" tvg-logo="https://epg.112114.xyz/logo/NewTV-黑莓电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-黑莓电影
-http://111.56.90.5/000000000000/1000000004000019624/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-中国功夫" tvg-logo="https://epg.112114.xyz/logo/NewTV-中国功夫.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-中国功夫
-http://111.56.90.5/000000000000/2000000003000000009/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NewTV-怡伴健康.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-怡伴健康
-http://111.56.90.5/000000000000/1000000005000266011/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NewTV-炫舞未来.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-炫舞未来
-http://111.56.90.5/000000000000/1000000001000000515/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-武博世界" tvg-logo="https://epg.112114.xyz/logo/NewTV-武博世界.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-武博世界
-http://111.56.90.5/000000000000/2000000003000000007/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-农业致富" tvg-logo="https://epg.112114.xyz/logo/NewTV-农业致富.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-农业致富
-http://111.56.90.5/000000000000/2000000003000000003/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-明星大片" tvg-logo="https://epg.112114.xyz/logo/NewTV-明星大片.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-明星大片
-http://111.56.90.5/000000000000/2000000003000000016/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-魅力潇湘" tvg-logo="https://epg.112114.xyz/logo/NewTV-魅力潇湘.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-魅力潇湘
-http://111.56.90.5/000000000000/1000000001000006197/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-军事评论" tvg-logo="https://epg.112114.xyz/logo/NewTV-军事评论.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-军事评论
-http://111.56.90.5/000000000000/2000000003000000022/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV-军旅剧场.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-军旅剧场
-http://111.56.90.5/000000000000/2000000003000000014/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV-金牌综艺.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-金牌综艺
-http://111.56.90.5/000000000000/1000000004000026167/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV-家庭剧场.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-家庭剧场
-http://111.56.90.5/000000000000/1000000004000008284/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-欢乐剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV-欢乐剧场.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-欢乐剧场
-http://111.56.90.5/000000000000/1000000005000266012/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-古装剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV-古装剧场.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-古装剧场
-http://111.56.90.5/000000000000/2000000003000000024/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-动作电影" tvg-logo="https://epg.112114.xyz/logo/NewTV-动作电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-动作电影
-http://111.56.90.5/000000000000/1000000004000018653/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-东北热剧" tvg-logo="https://epg.112114.xyz/logo/NewTV-东北热剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-东北热剧
-http://111.56.90.5/000000000000/1000000005000266013/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NewTV-潮妈辣婆.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-潮妈辣婆
-http://111.56.90.5/000000000000/2000000003000000018/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NewTV-爱情喜剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-爱情喜剧
-http://111.56.90.5/000000000000/2000000003000000010/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-精品纪录" tvg-logo="https://epg.112114.xyz/logo/NewTV-精品纪录.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-精品纪录
-http://111.56.90.5/000000000000/1000000004000013730/1.m3u8
-#EXTINF:-1 group-title="🛸[三网]NewTV直播" tvg-name="NewTV-精品大剧" tvg-logo="https://epg.112114.xyz/logo/NewTV-精品大剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NewTV-精品大剧
-http://111.56.90.5/000000000000/1000000004000013968/1.m3u8
