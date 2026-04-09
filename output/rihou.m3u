@@ -17,72 +17,6 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="CBA赛评",04-09⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35山西汾酒🆚深圳马可
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤🔊丁伟杰述
-http://rihou.cc:555/tv/08CBA丁伟杰
-#EXTINF:-1 group-title="CBA赛评",粤🔊广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊09抖评述
-http://rihou.cc:555/tv/09CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35江苏肯帝🆚浙江稠州
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊09抖述评
-http://rihou.cc:555/tv/09CBA抖述评
-#EXTINF:-1 group-title="CBA赛评",04-10⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35广东阳光🆚长白山恩
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤'🔊丁伟杰述
-http://rihou.cc:555/tv/10CBA丁伟杰
-#EXTINF:-1 group-title="CBA赛评",粤'🔊广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊10抖评述
-http://rihou.cc:555/tv/10CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35宁波町渥🆚浙江浙商
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊10抖述评
-http://rihou.cc:555/tv/10CBA抖述评
-#EXTINF:-1 group-title="CBA赛评",19:35北京控股🆚北京北汽
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊10抖评评
-http://rihou.cc:555/tv/10CBA抖评评
-#EXTINF:-1 group-title="CBA赛评",19:35青岛崂山🆚辽宁本钢
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊10抖述述
-http://rihou.cc:555/tv/10CBA抖述述
-#EXTINF:-1 group-title="CBA赛评",19:35上海久事🆚福建晋江
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊10抖旁述
-http://rihou.cc:555/tv/10CBA抖旁述
-#EXTINF:-1 group-title="CBA赛评",04-11⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35广州朗肽🆚南京天蓝
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤🔊'丁伟杰述
-http://rihou.cc:555/tv/11CBA丁伟杰
-#EXTINF:-1 group-title="CBA赛评",粤🔊'广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊11抖评述
-http://rihou.cc:555/tv/11CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35山西汾酒🆚新疆伊力
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊11抖述评
-http://rihou.cc:555/tv/11CBA抖述评
-#EXTINF:-1 group-title="CBA赛评",19:35深圳马可🆚江苏肯帝
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊11抖评评
-http://rihou.cc:555/tv/11CBA抖评评
-#EXTINF:-1 group-title="CBA赛评",19:35四川丰谷🆚天津行者
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊11抖述述
-http://rihou.cc:555/tv/11CBA抖述述
-#EXTINF:-1 group-title="CBA赛评",19:35浙江稠州🆚山东高速
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊11抖旁述
-http://rihou.cc:555/tv/11CBA抖旁述
 #EXTINF:-1 group-title="NBA赛评",04-10⬇️NBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="NBA赛评",07:00热火🆚猛龙
@@ -305,6 +239,58 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/13NBA咪旁解
 #EXTINF:-1 group-title="NBA赛评",国🔊13腾旁解
 http://rihou.cc:555/tv/13NBA腾旁解
+#EXTINF:-1 group-title="CBA赛评",04-10⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35广东阳光🆚长白山恩
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",粤'🔊丁伟杰述
+http://rihou.cc:555/tv/10CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评",粤'🔊广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="CBA赛评",国🔊10抖评述
+http://rihou.cc:555/tv/10CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35宁波町渥🆚浙江浙商
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊10抖述评
+http://rihou.cc:555/tv/10CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",19:35北京控股🆚北京北汽
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊10抖评评
+http://rihou.cc:555/tv/10CBA抖评评
+#EXTINF:-1 group-title="CBA赛评",19:35青岛崂山🆚辽宁本钢
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊10抖述述
+http://rihou.cc:555/tv/10CBA抖述述
+#EXTINF:-1 group-title="CBA赛评",19:35上海久事🆚福建晋江
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊10抖旁述
+http://rihou.cc:555/tv/10CBA抖旁述
+#EXTINF:-1 group-title="CBA赛评",04-11⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35广州朗肽🆚南京天蓝
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",粤🔊'丁伟杰述
+http://rihou.cc:555/tv/11CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评",粤🔊'广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="CBA赛评",国🔊11抖评述
+http://rihou.cc:555/tv/11CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35山西汾酒🆚新疆伊力
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊11抖述评
+http://rihou.cc:555/tv/11CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",19:35深圳马可🆚江苏肯帝
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊11抖评评
+http://rihou.cc:555/tv/11CBA抖评评
+#EXTINF:-1 group-title="CBA赛评",19:35四川丰谷🆚天津行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊11抖述述
+http://rihou.cc:555/tv/11CBA抖述述
+#EXTINF:-1 group-title="CBA赛评",19:35浙江稠州🆚山东高速
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊11抖旁述
+http://rihou.cc:555/tv/11CBA抖旁述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",鞋佬欧冠巴利
@@ -312,23 +298,23 @@ http://rihou.cc:555/tv/鞋佬回放巴利
 #EXTINF:-1 group-title="赛事精锦",鞋佬欧冠皇拜
 http://rihou.cc:555/tv/鞋佬回放皇拜
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛09
+http://rihou.cc:555/tv/联赛回放赛10
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛09
+http://rihou.cc:555/tv/NBA回放赛10
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛09
+http://rihou.cc:555/tv/羽球回放赛10
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛09
+http://rihou.cc:555/tv/橄球回放赛10
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛09
+http://rihou.cc:555/tv/乒球回放赛10
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛09
+http://rihou.cc:555/tv/网球回放赛10
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛09
+http://rihou.cc:555/tv/排球回放赛10
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛09
+http://rihou.cc:555/tv/格斗回放赛10
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛09
+http://rihou.cc:555/tv/斯赛回放赛10
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -2058,9 +2044,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐库播抖播
 video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖09
+http://rihou.cc:555/tv/音乐库仓抖10
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖09
+http://rihou.cc:555/tv/音乐仓库抖10
 #EXTINF:-1 group-title="网页音乐",翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐",怀旧音乐抖播
