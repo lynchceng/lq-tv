@@ -196,6 +196,8 @@ IPTV经典电影
 
 🏀NBA赛评,#genre#
 
+🏀#dynamic_genre#赛事
+
 
 🪁动画频道,#genre#
 少儿动画
