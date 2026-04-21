@@ -28,6 +28,7 @@ def load_alias_map():
 def load_channels():
     """加载最终要保存的频道和频道组"""
     channels = {}
+    dynamic_genres = []  # 存储动态频道组模式
     current_genre = None
     
     # 直接打印当前工作目录
@@ -61,14 +62,22 @@ def load_channels():
                     current_genre = line.replace('#genre#', '').strip().rstrip(',')
                     print(f"找到频道组: {current_genre}")
                     channels[current_genre] = []
+                elif '#dynamic_genre#' in line:
+                    # 处理动态频道组模式，例如 🏀#dynamic_genre#赛事 表示包含赛事关键词的频道组
+                    # 提取 #dynamic_genre# 前后的内容
+                    parts = line.split('#dynamic_genre#')
+                    prefix = parts[0].strip() if len(parts) > 0 else ''
+                    suffix = parts[1].strip() if len(parts) > 1 else ''
+                    print(f"找到动态频道组模式: {prefix}#dynamic_genre#{suffix}")
+                    dynamic_genres.append((prefix, suffix))
                 else:
                     if current_genre:
                         channels[current_genre].append(line.strip())
                         print(f"添加频道: {line.strip()} 到频道组: {current_genre}")
-        print(f"加载完成，共 {len(channels)} 个频道组")
+        print(f"加载完成，共 {len(channels)} 个频道组，{len(dynamic_genres)} 个动态频道组模式")
     except Exception as e:
         print(f"加载channels.txt失败: {type(e).__name__}: {e}")
-    return channels
+    return channels, dynamic_genres
 
 def load_channel_icon():
     """加载频道logo规则"""
@@ -203,7 +212,7 @@ def load_source_content(source_type, source):
 def main():
     # 加载配置
     alias_map = load_alias_map()
-    channels_config = load_channels()
+    channels_config, dynamic_genres = load_channels()
     channel_icon_base = load_channel_icon()
     sources = load_subscribe_sources()
     
@@ -216,6 +225,9 @@ def main():
             if channel not in channel_to_genre:
                 channel_to_genre[channel] = []
             channel_to_genre[channel].append(genre)
+    
+    # 动态频道组模式，用于匹配频道组名称
+    print(f"动态频道组模式: {dynamic_genres}")
     
     # 打印频道配置信息
     print("频道配置信息:")
@@ -279,6 +291,8 @@ def main():
             channel_group = channel.get('group', '')
             # 尝试匹配频道组名称（忽略emoji等特殊字符）
             matched_genre = None
+            
+            # 首先检查固定频道组
             for genre in channels_config:
                 # 去除emoji和特殊字符后比较
                 clean_genre = ''.join([c for c in genre if c.isalnum() or c in '-_ 中文'])
@@ -286,6 +300,26 @@ def main():
                 if clean_genre == clean_channel_group:
                     matched_genre = genre
                     break
+            
+            # 如果没有匹配到固定频道组，检查动态频道组
+            if not matched_genre:
+                # 检查是否匹配动态频道组模式
+                for prefix, suffix in dynamic_genres:
+                    # 检查实际频道组名称是否以prefix开头且以suffix结尾
+                    # 去除emoji和特殊字符后比较
+                    clean_channel_group = ''.join([c for c in channel_group if c.isalnum() or c in '-_ 中文'])
+                    clean_prefix = ''.join([c for c in prefix if c.isalnum() or c in '-_ 中文'])
+                    clean_suffix = ''.join([c for c in suffix if c.isalnum() or c in '-_ 中文'])
+                    
+                    # 检查匹配条件
+                    prefix_match = (clean_prefix == '' or clean_channel_group.startswith(clean_prefix))
+                    suffix_match = (clean_suffix == '' or clean_channel_group.endswith(clean_suffix))
+                    
+                    if prefix_match and suffix_match:
+                        matched_genre = channel_group
+                        print(f"匹配到动态频道组: {channel_group} (模式: {prefix}#dynamic_genre#{suffix})")
+                        break
+            
             if matched_genre:
                 # 去重：同一频道组下同一URL不重复
                 url = channel.get('url', '')
@@ -323,17 +357,19 @@ def main():
             genre_channels[genre] = []
         genre_channels[genre].append(channel)
     
-    # 获取channels.txt中的频道组顺序
-    channel_order = []
+    # 获取channels.txt中的固定频道组顺序
+    fixed_channel_order = []
     with open('config/channels.txt', 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             if '#genre#' in line:
                 genre = line.replace('#genre#', '').strip().rstrip(',')
-                channel_order.append(genre)
+                fixed_channel_order.append(genre)
     
     # 生成频道信息，按照channels.txt中的顺序
-    for genre in channel_order:
+    
+    # 1. 先处理固定频道组
+    for genre in fixed_channel_order:
         if genre in genre_channels:
             # 按照channels.txt中定义的顺序排序频道
             # 首先按照channels.txt中的顺序对频道名称排序
@@ -354,6 +390,18 @@ def main():
                 logo_attr = f' tvg-logo="{logo}"' if logo else ''
                 output_lines.append(f"#EXTINF:-1 group-title=\"{genre}\" tvg-name=\"{channel['name']}\"{logo_attr},{channel['name']}")
                 output_lines.append(channel['url'])
+    
+    # 2. 处理动态频道组（不在固定频道组中的频道组）
+    dynamic_channel_groups = [genre for genre in genre_channels if genre not in fixed_channel_order]
+    for genre in dynamic_channel_groups:
+        # 排序频道（按频道名称）
+        sorted_channels = sorted(genre_channels[genre], key=lambda x: x['name'])
+        
+        for channel in sorted_channels:
+            logo = channel['logo']
+            logo_attr = f' tvg-logo="{logo}"' if logo else ''
+            output_lines.append(f"#EXTINF:-1 group-title=\"{genre}\" tvg-name=\"{channel['name']}\"{logo_attr},{channel['name']}")
+            output_lines.append(channel['url'])
     
     # ========== 新增：自动创建 output 目录 ==========
     output_dir = "output"
