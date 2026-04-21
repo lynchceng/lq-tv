@@ -17,28 +17,12 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/21赛事",04-21⬇️英超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/21赛事",03:00水晶宫🆚韦斯咸
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/21赛事",国🔊21英评述
-http://rihou.cc:555/tv/21英超咪评述
 #EXTINF:-1 group-title="4/21赛事",04-21⬇️NBA季后赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/21赛事",07:00猛龙🆚骑士
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/21赛事",国🔊21咪评述
-http://rihou.cc:555/tv/21NBA咪评述
-#EXTINF:-1 group-title="4/21赛事",国🔊21腾评述
-http://rihou.cc:555/tv/21NBA腾评述
-#EXTINF:-1 group-title="4/21赛事",08:00老鹰🆚尼克斯
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/21赛事",国🔊21咪述评
-http://rihou.cc:555/tv/21NBA咪述评
-#EXTINF:-1 group-title="4/21赛事",国🔊21腾述评
-http://rihou.cc:555/tv/21NBA腾述评
 #EXTINF:-1 group-title="4/21赛事",10:30木狼🆚掘金
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/21赛事",粤🔊牛哥旁述
+http://rihou.cc:555/tv/21NBA牛哥述
 #EXTINF:-1 group-title="4/21赛事",国🔊21咪评评
 http://rihou.cc:555/tv/21NBA咪评评
 #EXTINF:-1 group-title="4/21赛事",国🔊21腾评评
@@ -1333,6 +1317,8 @@ http://rihou.cc:555/tv/[Mt]Now新闻
 http://rihou.cc:555/tv/[Hv]中天新聞
 #EXTINF:-1 group-title="欣赏频道",中天新闻欣赏
 http://rihou.cc:555/tv/[SZ]中天新闻
+#EXTINF:-1 group-title="欣赏频道",中天新闻欣赏
+http://rihou.cc:555/tv/[Us]中天新闻
 #EXTINF:-1 group-title="欣赏频道",中天新闻欣赏
 http://rihou.cc:555/tv/[Bx]中天新闻
 #EXTINF:-1 group-title="欣赏频道",寰宇新闻欣赏
