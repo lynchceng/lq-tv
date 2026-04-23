@@ -17,36 +17,6 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/23赛事",04-23⬇️NBA季后赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/23赛事",09:30太阳🆚雷霆
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊23咪述评
-http://rihou.cc:555/tv/23NBA咪述评
-#EXTINF:-1 group-title="4/23赛事",国🔊23腾述评
-http://rihou.cc:555/tv/23NBA腾述评
-#EXTINF:-1 group-title="4/23赛事",04-23⬇️美职联第9轮⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/23赛事",09:30迈阿密国际🆚皇家盐湖城
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊爱酱评述
-http://rihou.cc:555/tv/23美职爱酱述
-#EXTINF:-1 group-title="4/23赛事",国🔊真实评述
-http://rihou.cc:555/tv/23美职真实述
-#EXTINF:-1 group-title="4/23赛事",国🔊小斐评述
-http://rihou.cc:555/tv/23美职小斐述
-#EXTINF:-1 group-title="4/23赛事",国🔊23美评述
-http://rihou.cc:555/tv/23美职咪评述
-#EXTINF:-1 group-title="4/23赛事",04-23⬇️浙超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/23赛事",19:30杭州队🆚绍兴队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊23浙评述
-http://rihou.cc:555/tv/23浙超咪评述
-#EXTINF:-1 group-title="4/23赛事",19:30宁波队🆚丽水队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊23浙述评
-http://rihou.cc:555/tv/23浙超咪述评
 #EXTINF:-1 group-title="4/24赛事",04-24⬇️NBA季后赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="4/24赛事",07:00老鹰🆚尼克斯
@@ -522,23 +492,23 @@ http://rihou.cc:555/tv/30浙超咪评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛23
+http://rihou.cc:555/tv/联赛回放赛24
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛23
+http://rihou.cc:555/tv/NBA回放赛24
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛23
+http://rihou.cc:555/tv/羽球回放赛24
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛23
+http://rihou.cc:555/tv/橄球回放赛24
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛23
+http://rihou.cc:555/tv/乒球回放赛24
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛23
+http://rihou.cc:555/tv/网球回放赛24
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛23
+http://rihou.cc:555/tv/排球回放赛24
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛23
+http://rihou.cc:555/tv/格斗回放赛24
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛23
+http://rihou.cc:555/tv/斯赛回放赛24
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -2364,9 +2334,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐库播抖播
 video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖23
+http://rihou.cc:555/tv/音乐库仓抖24
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖23
+http://rihou.cc:555/tv/音乐仓库抖24
 #EXTINF:-1 group-title="网页音乐",翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐",怀旧音乐抖播
