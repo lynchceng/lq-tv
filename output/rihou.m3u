@@ -17,30 +17,26 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/23赛事",04-23⬇️英超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/23赛事",03:00曼城🆚般尼
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊23英评述
-http://rihou.cc:555/tv/23英超咪评述
-#EXTINF:-1 group-title="4/23赛事",03:00列斯联🆚般尼茅夫
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊23英述评
-http://rihou.cc:555/tv/23英超咪述评
 #EXTINF:-1 group-title="4/23赛事",04-23⬇️NBA季后赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/23赛事",07:00魔术🆚活塞
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/23赛事",国🔊23咪评述
-http://rihou.cc:555/tv/23NBA咪评述
-#EXTINF:-1 group-title="4/23赛事",国🔊23腾评述
-http://rihou.cc:555/tv/23NBA腾评述
 #EXTINF:-1 group-title="4/23赛事",09:30太阳🆚雷霆
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="4/23赛事",国🔊23咪述评
 http://rihou.cc:555/tv/23NBA咪述评
 #EXTINF:-1 group-title="4/23赛事",国🔊23腾述评
 http://rihou.cc:555/tv/23NBA腾述评
+#EXTINF:-1 group-title="4/23赛事",04-23⬇️美职联第9轮⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="4/23赛事",09:30迈阿密国际🆚皇家盐湖城
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/23赛事",国🔊爱酱评述
+http://rihou.cc:555/tv/23美职爱酱述
+#EXTINF:-1 group-title="4/23赛事",国🔊真实评述
+http://rihou.cc:555/tv/23美职真实述
+#EXTINF:-1 group-title="4/23赛事",国🔊小斐评述
+http://rihou.cc:555/tv/23美职小斐述
+#EXTINF:-1 group-title="4/23赛事",国🔊23美评述
+http://rihou.cc:555/tv/23美职咪评述
 #EXTINF:-1 group-title="4/23赛事",04-23⬇️浙超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="4/23赛事",19:30杭州队🆚绍兴队
@@ -325,6 +321,12 @@ http://rihou.cc:555/tv/25粤BA咪评旁
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="4/25赛事",国🔊25粤解评
 http://rihou.cc:555/tv/25粤BA咪解评
+#EXTINF:-1 group-title="4/25赛事",04-25⬇️WCBA总决赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="4/25赛事",19:30山西竹叶青酒🆚四川蜀道远达
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/25赛事",国🔊25抖评述
+http://rihou.cc:555/tv/25WCBA抖评述
 #EXTINF:-1 group-title="4/26赛事",04-26⬇️足总杯半决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="4/26赛事",00:15曼城🆚修咸顿
