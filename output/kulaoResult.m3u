@@ -35,6 +35,10 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 group-title="🔥[三网]央卫视直播" tvg-name="CCTV-17农业农村高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-17农业农村高清.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV-17农业农村高清
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+#EXTINF:-1 group-title="🔥[三网]央卫视直播" tvg-name="CCTV4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV4K超高清.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV4K超高清
+http://111.170.156.74:3344/央视/cctv.php?id=cctv4k#http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="🔥[三网]央卫视直播" tvg-name="CCTV8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV8K超高清.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV8K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 group-title="🔥[三网]央卫视直播" tvg-name="湖南卫视高清" tvg-logo="https://epg.112114.xyz/logo/湖南卫视高清.png" epg-url="https://123.tv1288.xyz/2026.xml",湖南卫视高清
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
 #EXTINF:-1 group-title="🔥[三网]央卫视直播" tvg-name="东方卫视高清" tvg-logo="https://epg.112114.xyz/logo/东方卫视高清.png" epg-url="https://123.tv1288.xyz/2026.xml",东方卫视高清
@@ -417,8 +421,6 @@ https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE
 http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" epg-url="https://123.tv1288.xyz/2026.xml",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="海南少儿" tvg-logo="https://epg.112114.xyz/logo/海南少儿.png" epg-url="https://123.tv1288.xyz/2026.xml",海南少儿
-http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 #EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="喜羊羊与灰太狼" tvg-logo="https://epg.112114.xyz/logo/喜羊羊与灰太狼.png" epg-url="https://123.tv1288.xyz/2026.xml",喜羊羊与灰太狼
 https://live.ottiptv.cc/huya/23865080
 #EXTINF:-1 group-title="👶🏻少儿直播" tvg-name="开心锤锤动漫" tvg-logo="https://epg.112114.xyz/logo/开心锤锤动漫.png" epg-url="https://123.tv1288.xyz/2026.xml",开心锤锤动漫
