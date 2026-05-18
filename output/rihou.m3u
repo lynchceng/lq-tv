@@ -17,71 +17,37 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="英超赛评",05-18⬇️英超第37轮联赛⬇️⚽📡
+#EXTINF:-1 group-title="英超赛评",05-19⬇️英超第37轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="英超赛评",00:30纽卡素🆚韦斯咸
+#EXTINF:-1 group-title="英超赛评",03:00阿仙奴🆚般尼
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="英超赛评",粤🔊小肥旁述
-http://rihou.cc:555/tv/18英超小肥述
-#EXTINF:-1 group-title="英超赛评",粤🔊牛哥旁述
-http://rihou.cc:555/tv/18英超牛哥述
-#EXTINF:-1 group-title="英超赛评",粤🔊师兄旁述
-http://rihou.cc:555/tv/18英超师兄述
-#EXTINF:-1 group-title="英超赛评",国🔊团哥评述
-http://rihou.cc:555/tv/18英超团哥述
-#EXTINF:-1 group-title="英超赛评",国🔊巴乔评述
-http://rihou.cc:555/tv/18英超巴乔述
-#EXTINF:-1 group-title="英超赛评",国🔊阿泽评述
-http://rihou.cc:555/tv/18英超阿泽述
-#EXTINF:-1 group-title="NBA赛评",05-18⬇️NBA季后赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评",08:00骑士🆚活塞
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊18咪评述
-http://rihou.cc:555/tv/18NBA咪评述
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾评述
-http://rihou.cc:555/tv/18NBA腾评述
-#EXTINF:-1 group-title="CBA赛评",05-18⬇️CBA季后赛半决赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35浙江浙商'🆚深圳马可
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤🔊18丁伟杰
-http://rihou.cc:555/tv/18CBA丁伟杰
-#EXTINF:-1 group-title="CBA赛评",粤🔊广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊18抖评述
-http://rihou.cc:555/tv/18CBA抖评述
-#EXTINF:-1 group-title="5/19赛事",05-19⬇️英超第37轮联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/19赛事",03:00阿仙奴🆚般尼
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/19赛事",国🔊19英评述
+#EXTINF:-1 group-title="英超赛评",国🔊19英评述
 http://rihou.cc:555/tv/19英超咪评述
-#EXTINF:-1 group-title="5/19赛事",05-19⬇️NBA季后赛⬇️🏀📡
+#EXTINF:-1 group-title="NBA赛评",05-19⬇️NBA西部决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/19赛事",08:30马刺🆚雷霆
+#EXTINF:-1 group-title="NBA赛评",08:30马刺🆚雷霆
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/19赛事",国🔊19咪评述
+#EXTINF:-1 group-title="NBA赛评",国🔊19咪评述
 http://rihou.cc:555/tv/19NBA咪评述
-#EXTINF:-1 group-title="5/19赛事",国🔊19腾评述
+#EXTINF:-1 group-title="NBA赛评",国🔊19腾评述
 http://rihou.cc:555/tv/19NBA腾评述
-#EXTINF:-1 group-title="5/19赛事",05-19⬇️中超第13轮联赛⬇️⚽📡
+#EXTINF:-1 group-title="中超赛评",05-19⬇️中超第13轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/19赛事",19:35深圳鹏城🆚大连英博
+#EXTINF:-1 group-title="中超赛评",19:35深圳鹏城🆚大连英博
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/19赛事",国🔊19中评述
+#EXTINF:-1 group-title="中超赛评",国🔊19中评述
 http://rihou.cc:555/tv/19中超咪评述
-#EXTINF:-1 group-title="5/19赛事",19:35天津门虎🆚河南俱乐
+#EXTINF:-1 group-title="中超赛评",19:35天津门虎🆚河南俱乐
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/19赛事",国🔊19中述评
+#EXTINF:-1 group-title="中超赛评",国🔊19中述评
 http://rihou.cc:555/tv/19中超咪述评
-#EXTINF:-1 group-title="5/19赛事",20:00成都蓉城🆚上海海港
+#EXTINF:-1 group-title="中超赛评",20:00成都蓉城🆚上海海港
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/19赛事",国🔊19中评评
+#EXTINF:-1 group-title="中超赛评",国🔊19中评评
 http://rihou.cc:555/tv/19中超咪评评
-#EXTINF:-1 group-title="5/19赛事",20:00青岛西岸🆚北京国安
+#EXTINF:-1 group-title="中超赛评",20:00青岛西岸🆚北京国安
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/19赛事",国🔊19中述述
+#EXTINF:-1 group-title="中超赛评",国🔊19中述述
 http://rihou.cc:555/tv/19中超咪述述
 #EXTINF:-1 group-title="5/20赛事",05-20⬇️英超第37轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
@@ -93,6 +59,14 @@ http://rihou.cc:555/tv/20英超咪评述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/20赛事",国🔊20英述评
 http://rihou.cc:555/tv/20英超咪述评
+#EXTINF:-1 group-title="5/20赛事",05-20⬇️NBA东部决赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/20赛事",08:00骑士🆚尼克斯
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/20赛事",国🔊20咪评述
+http://rihou.cc:555/tv/20NBA咪评述
+#EXTINF:-1 group-title="5/20赛事",国🔊20腾评述
+http://rihou.cc:555/tv/20NBA腾评述
 #EXTINF:-1 group-title="5/20赛事",05-20⬇️中超第13轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/20赛事",19:00辽宁铁人🆚青岛海牛
@@ -119,7 +93,7 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/20CBA丁伟杰
 #EXTINF:-1 group-title="5/20赛事",国🔊20抖评述
 http://rihou.cc:555/tv/20CBA抖评述
-#EXTINF:-1 group-title="5/21赛事",05-21⬇️NBA季后赛⬇️🏀📡
+#EXTINF:-1 group-title="5/21赛事",05-21⬇️NBA西部决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/21赛事",08:30雷霆🆚马刺
 http://rihou.cc:555/tv/v
@@ -140,23 +114,23 @@ http://rihou.cc:555/tv/21CBA抖评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛18
+http://rihou.cc:555/tv/联赛回放赛19
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛18
+http://rihou.cc:555/tv/NBA回放赛19
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛18
+http://rihou.cc:555/tv/羽球回放赛19
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛18
+http://rihou.cc:555/tv/橄球回放赛19
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛18
+http://rihou.cc:555/tv/乒球回放赛19
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛18
+http://rihou.cc:555/tv/网球回放赛19
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛18
+http://rihou.cc:555/tv/排球回放赛19
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛18
+http://rihou.cc:555/tv/格斗回放赛19
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛18
+http://rihou.cc:555/tv/斯赛回放赛19
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -1216,9 +1190,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐播库抖播
 video://http://rihou.cc:555/tv/网页播库
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖18
+http://rihou.cc:555/tv/音乐库仓抖19
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖18
+http://rihou.cc:555/tv/音乐仓库抖19
 #EXTINF:-1 group-title="网页音乐",翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐",怀旧音乐抖播
