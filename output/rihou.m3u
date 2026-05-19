@@ -17,81 +17,69 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="英超赛评",05-19⬇️英超第37轮联赛⬇️⚽📡
+#EXTINF:-1 group-title="亚杯赛评",05-20⬇️U17亚洲杯半决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="英超赛评",03:00阿仙奴🆚般尼
+#EXTINF:-1 group-title="亚杯赛评",02:30中国U17🆚澳大利亚U17
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="英超赛评",国🔊19英评述
-http://rihou.cc:555/tv/19英超咪评述
-#EXTINF:-1 group-title="NBA赛评",05-19⬇️NBA西部决赛⬇️🏀📡
+#EXTINF:-1 group-title="亚杯赛评",国🔊20亚评述
+http://rihou.cc:555/tv/20亚杯咪评述
+#EXTINF:-1 group-title="英超赛评",05-20⬇️英超第37轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评",08:30马刺🆚雷霆
+#EXTINF:-1 group-title="英超赛评",02:30曼城🆚般尼茅夫
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊19咪评述
-http://rihou.cc:555/tv/19NBA咪评述
-#EXTINF:-1 group-title="NBA赛评",国🔊19腾评述
-http://rihou.cc:555/tv/19NBA腾评述
-#EXTINF:-1 group-title="中超赛评",05-19⬇️中超第13轮联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="中超赛评",19:35深圳鹏城🆚大连英博
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超赛评",国🔊19中评述
-http://rihou.cc:555/tv/19中超咪评述
-#EXTINF:-1 group-title="中超赛评",19:35天津门虎🆚河南俱乐
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超赛评",国🔊19中述评
-http://rihou.cc:555/tv/19中超咪述评
-#EXTINF:-1 group-title="中超赛评",20:00成都蓉城🆚上海海港
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超赛评",国🔊19中评评
-http://rihou.cc:555/tv/19中超咪评评
-#EXTINF:-1 group-title="中超赛评",20:00青岛西岸🆚北京国安
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超赛评",国🔊19中述述
-http://rihou.cc:555/tv/19中超咪述述
-#EXTINF:-1 group-title="5/20赛事",05-20⬇️英超第37轮联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/20赛事",02:30曼城🆚般尼茅夫
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20英评述
+#EXTINF:-1 group-title="英超赛评",国🔊20英评述
 http://rihou.cc:555/tv/20英超咪评述
-#EXTINF:-1 group-title="5/20赛事",03:15热刺🆚车路士
+#EXTINF:-1 group-title="英超赛评",03:15热刺🆚车路士
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20英述评
+#EXTINF:-1 group-title="英超赛评",国🔊20英述评
 http://rihou.cc:555/tv/20英超咪述评
-#EXTINF:-1 group-title="5/20赛事",05-20⬇️NBA东部决赛⬇️🏀📡
+#EXTINF:-1 group-title="NBA赛评",05-20⬇️NBA东部决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/20赛事",08:00骑士🆚尼克斯
+#EXTINF:-1 group-title="NBA赛评",08:00骑士🆚尼克斯
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20咪评述
+#EXTINF:-1 group-title="NBA赛评",国🔊20咪评述
 http://rihou.cc:555/tv/20NBA咪评述
-#EXTINF:-1 group-title="5/20赛事",国🔊20腾评述
+#EXTINF:-1 group-title="NBA赛评",国🔊20腾评述
 http://rihou.cc:555/tv/20NBA腾评述
-#EXTINF:-1 group-title="5/20赛事",05-20⬇️中超第13轮联赛⬇️⚽📡
+#EXTINF:-1 group-title="中超赛评",05-20⬇️中超第13轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/20赛事",19:00辽宁铁人🆚青岛海牛
+#EXTINF:-1 group-title="中超赛评",19:00辽宁铁人🆚青岛海牛
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20中评述
+#EXTINF:-1 group-title="中超赛评",国🔊20中评述
 http://rihou.cc:555/tv/20中超咪评述
-#EXTINF:-1 group-title="5/20赛事",19:35上海申花🆚武汉三镇
+#EXTINF:-1 group-title="中超赛评",19:35上海申花🆚武汉三镇
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20中述评
+#EXTINF:-1 group-title="中超赛评",国🔊20中述评
 http://rihou.cc:555/tv/20中超咪述评
-#EXTINF:-1 group-title="5/20赛事",20:00浙江俱乐🆚山东泰山
+#EXTINF:-1 group-title="中超赛评",20:00浙江俱乐🆚山东泰山
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20中评评
+#EXTINF:-1 group-title="中超赛评",国🔊20中评评
 http://rihou.cc:555/tv/20中超咪评评
-#EXTINF:-1 group-title="5/20赛事",20:00重庆铜梁🆚云南玉昆
+#EXTINF:-1 group-title="中超赛评",20:00重庆铜梁🆚云南玉昆
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",国🔊20中述述
+#EXTINF:-1 group-title="中超赛评",国🔊20中述述
 http://rihou.cc:555/tv/20中超咪述述
-#EXTINF:-1 group-title="5/20赛事",05-20⬇️CBA季后赛半决赛⬇️🏀📡
+#EXTINF:-1 group-title="浙超赛评",05-20⬇️浙江省城市足球联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/20赛事",19:35北京北汽🆚上海久事
+#EXTINF:-1 group-title="浙超赛评",19:15杭州队🆚宁波队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/20赛事",粤🔊20丁伟杰
+#EXTINF:-1 group-title="浙超赛评",国🔊20浙评述
+http://rihou.cc:555/tv/20浙超咪评述
+#EXTINF:-1 group-title="浙超赛评",19:15绍兴队🆚金华队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="浙超赛评",国🔊20浙述评
+http://rihou.cc:555/tv/20浙超咪述评
+#EXTINF:-1 group-title="浙超赛评",19:15衢州队🆚温州队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="浙超赛评",国🔊20浙评评
+http://rihou.cc:555/tv/20浙超咪评评
+#EXTINF:-1 group-title="CBA赛评",05-20⬇️CBA季后赛半决赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35北京北汽🆚上海久事
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",粤🔊20丁伟杰
 http://rihou.cc:555/tv/20CBA丁伟杰
-#EXTINF:-1 group-title="5/20赛事",国🔊20抖评述
+#EXTINF:-1 group-title="CBA赛评",国🔊20抖评述
 http://rihou.cc:555/tv/20CBA抖评述
 #EXTINF:-1 group-title="5/21赛事",05-21⬇️NBA西部决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
@@ -101,6 +89,16 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/21NBA咪评述
 #EXTINF:-1 group-title="5/21赛事",国🔊21腾评述
 http://rihou.cc:555/tv/21NBA腾评述
+#EXTINF:-1 group-title="5/21赛事",05-21⬇️浙江省城市足球联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/21赛事",14:45嘉兴队🆚舟山队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/21赛事",国🔊21浙评述
+http://rihou.cc:555/tv/21浙超咪评述
+#EXTINF:-1 group-title="5/21赛事",19:15湖州队🆚台州队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/21赛事",国🔊21浙述评
+http://rihou.cc:555/tv/21浙超咪述评
 #EXTINF:-1 group-title="5/21赛事",05-21⬇️CBA季后赛半决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/21赛事",19:35深圳马可🆚浙江浙商
@@ -114,23 +112,23 @@ http://rihou.cc:555/tv/21CBA抖评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛19
+http://rihou.cc:555/tv/联赛回放赛20
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛19
+http://rihou.cc:555/tv/NBA回放赛20
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛19
+http://rihou.cc:555/tv/羽球回放赛20
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛19
+http://rihou.cc:555/tv/橄球回放赛20
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛19
+http://rihou.cc:555/tv/乒球回放赛20
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛19
+http://rihou.cc:555/tv/网球回放赛20
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛19
+http://rihou.cc:555/tv/排球回放赛20
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛19
+http://rihou.cc:555/tv/格斗回放赛20
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛19
+http://rihou.cc:555/tv/斯赛回放赛20
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -611,6 +609,68 @@ http://rihou.cc:555/tv/[Pd]CH5综合
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 group-title="特新Pdtv",八度空间Pdtv
 http://rihou.cc:555/tv/[Pd]八度空间
+#EXTINF:-1 group-title="特区频晴",有线新闻频晴
+mitv://107.150.42.186:33001/a976522739e068dbe0a3dbc6f3fe040a
+#EXTINF:-1 group-title="特区频晴",无线新闻频晴
+mitv://107.150.42.186:33001/9ee1ad7e0189cfb1c472b799e1885ca7
+#EXTINF:-1 group-title="特区频晴",无线新闻频晴
+mitv://107.150.42.186:33001/698f60e50004ef1f534711154f3edde1
+#EXTINF:-1 group-title="特区频晴",Now新闻频晴
+mitv://107.150.42.186:33001/1a8a4ef6d0988b09cdecdc2723e54065
+#EXTINF:-1 group-title="特区频晴",Plus综合频晴
+mitv://107.150.42.186:33001/a822b7b580cf1a5023cc57a3ae63d825
+#EXTINF:-1 group-title="特区频晴",无线翡翠频晴
+mitv://107.150.42.186:33001/698c3512000095be46e3dfc0ad9a7af1
+#EXTINF:-1 group-title="特区频晴",无线翡翠频晴
+mitv://107.150.42.186:33001/280fce5dcdc245976fb2730f0b560df0
+#EXTINF:-1 group-title="特区频晴",无线明珠频晴
+mitv://107.150.42.186:33001/4b4d807101d935ef746423a6efe1e3da
+#EXTINF:-1 group-title="特区频晴",有线综合频晴
+mitv://107.150.42.186:33001/000859ebe0eee8632a391228c0d84988
+#EXTINF:-1 group-title="特区频晴",有线赛讯频晴
+mitv://107.150.42.186:33001/18cf7632cfb58e827d0fa0731ed4ff98
+#EXTINF:-1 group-title="特区频晴",凤凰香港频晴
+mitv://107.150.42.186:33001/71e6d0e4f7bb145d49ccafe3dd81dc5e
+#EXTINF:-1 group-title="特区频晴",美亚电影频晴
+mitv://107.150.42.186:33001/17c9d228b0d7720509d4929eee165a59
+#EXTINF:-1 group-title="特区频晴",天映频道频晴
+mitv://107.150.42.186:33001/66714746427cdd43c75e462ba404420c
+#EXTINF:-1 group-title="特区频晴",Now星影频晴
+mitv://107.150.42.186:33001/95c69f577fe31bc04f4a6e279e1dd6f2
+#EXTINF:-1 group-title="特区频晴",Now爆谷频晴
+mitv://107.150.42.186:33001/18dd0be363886142bb23a511a37eaf80
+#EXTINF:-1 group-title="特区频晴",Now直播频晴
+mitv://107.150.42.186:33001/d501192dc899d76ca352ef8da54f0ccd
+#EXTINF:-1 group-title="特区频晴",Now财经频晴
+mitv://107.150.42.186:33001/a6e0e37cc0d5108b95a9dd8ff4e7861e
+#EXTINF:-1 group-title="特区频晴",Now剧集频晴
+mitv://107.150.42.186:33001/6508cc264388faffd609e2e999685246
+#EXTINF:-1 group-title="特区频晴",VIUTV'粤频晴
+mitv://107.150.42.186:33001/5254467f8166070e4b212457f733e0b2
+#EXTINF:-1 group-title="特区频晴",History'1频晴
+mitv://107.150.42.186:33001/29552e6fc29e837c7b14e424d71d55a0
+#EXTINF:-1 group-title="特区频晴",History'2频晴
+mitv://107.150.42.186:33001/df0824acd116baaf72071fff86cab34d
+#EXTINF:-1 group-title="特区频晴",国家地理频晴
+mitv://107.150.42.186:33001/c25faa245554781a6ced346fd30c7902
+#EXTINF:-1 group-title="特区双音",Plus综合双语
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="特区双音",无线翡翠4k音
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 group-title="特区双音",无线华丽双语
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 group-title="特区双音",无线星河双语
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="特区双音",无线千禧单粤
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="特区双音",astroaod双语
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="特区双音",astroaec双语
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="特区双音",astroiqiyi单国
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="特区双音",astro欢喜双语
+https://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 group-title="欣赏频道",粤语戏曲欣赏
 https://test.946985.filegear-sg.me/proxy/ecb0453314ebdc87
 #EXTINF:-1 group-title="欣赏频道",粤语戏曲欣赏
@@ -950,7 +1010,7 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 group-title="欣赏频道",星空卫视频道
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="欣赏频道",亚洲卫视频道
-https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+http://rihou.cc:555/tv/NTD
 #EXTINF:-1 group-title="欣赏频道",香港卫视频道
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="欣赏频道",香港C+_-频道
@@ -958,7 +1018,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="欣赏频道",环球电视频道
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="欣赏频道",私人影院频道
-P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+mitv://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 #EXTINF:-1 group-title="欣赏频道",重温经典频道
 http://m.061899.xyz/mg/cwjd
 #EXTINF:-1 group-title="欣赏频道",重温经典频道
@@ -1190,9 +1250,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐播库抖播
 video://http://rihou.cc:555/tv/网页播库
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖19
+http://rihou.cc:555/tv/音乐库仓抖20
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖19
+http://rihou.cc:555/tv/音乐仓库抖20
 #EXTINF:-1 group-title="网页音乐",翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐",怀旧音乐抖播
@@ -2250,127 +2310,127 @@ http://220.135.64.124:5050/ofiii207/index.m3u8?proxy=true
 #EXTINF:-1 group-title="闽南回放",闽南国民大会
 http://220.135.64.124:5050/ofiii208/index.m3u8?proxy=true
 #EXTINF:-1 group-title="特闽频晴",Now新闻频晴
-P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
+mitv://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
 #EXTINF:-1 group-title="特闽频晴",无线新闻频晴
-P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+mitv://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 #EXTINF:-1 group-title="特闽频晴",无线生活频晴
-P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
+mitv://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
 #EXTINF:-1 group-title="特闽频晴",无线娱乐频晴
-P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+mitv://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
 #EXTINF:-1 group-title="特闽频晴",无线星河频晴
-P2p://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
+mitv://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
 #EXTINF:-1 group-title="特闽频晴",无线千禧频晴
-P2p://starvod.xyz:19806/8cf149d3490640d298e3bce48cd0e8ae.ts
+mitv://starvod.xyz:19806/8cf149d3490640d298e3bce48cd0e8ae.ts
 #EXTINF:-1 group-title="特闽频晴",无线功夫频晴
-P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+mitv://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
 #EXTINF:-1 group-title="特闽频晴",无线粤片频晴
-P2p://starvod.xyz:19806/04fd1cf947634341813b484f497ecbbc.ts
+mitv://starvod.xyz:19806/04fd1cf947634341813b484f497ecbbc.ts
 #EXTINF:-1 group-title="特闽频晴",无线戏曲频晴
-P2p://starvod.xyz:19806/38b743244a7b4812a4e54b0d32910647.ts
+mitv://starvod.xyz:19806/38b743244a7b4812a4e54b0d32910647.ts
 #EXTINF:-1 group-title="特闽频晴",无线亚剧频晴
-P2p://starvod.xyz:19806/4eab17c6f15b475696bcb51b61233345.ts
+mitv://starvod.xyz:19806/4eab17c6f15b475696bcb51b61233345.ts
 #EXTINF:-1 group-title="特闽频晴",无线少儿频晴
-P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+mitv://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
 #EXTINF:-1 group-title="特闽频晴",黄金翡翠频晴
-P2p://starvod.xyz:19806/d6964956395e43d1a62e6166706f7fcf.ts
+mitv://starvod.xyz:19806/d6964956395e43d1a62e6166706f7fcf.ts
 #EXTINF:-1 group-title="特闽频晴",无线赛马频晴
-P2p://starvod.xyz:19806/ad27c96a4bca4e61be7b4b2ba07368fc.ts
+mitv://starvod.xyz:19806/ad27c96a4bca4e61be7b4b2ba07368fc.ts
 #EXTINF:-1 group-title="特闽频晴",有线赛马频晴
-P2p://starvod.xyz:19806/72740144b3744949b05bd0220bd4c231.ts
+mitv://starvod.xyz:19806/72740144b3744949b05bd0220bd4c231.ts
 #EXTINF:-1 group-title="特闽频晴",澳门莲花频晴
-P2p://starvod.xyz:19806/68679bdf00060084a4fd42af6a261d1a.ts
+mitv://starvod.xyz:19806/68679bdf00060084a4fd42af6a261d1a.ts
 #EXTINF:-1 group-title="特闽频晴",星空卫视频晴
-P2p://starvod.xyz:19806/913e258484624493a5a6d960500b30cc.ts
+mitv://starvod.xyz:19806/913e258484624493a5a6d960500b30cc.ts
 #EXTINF:-1 group-title="特闽频晴",天映经典频晴
-P2p://starvod.xyz:19806/4eebafee9ada46c9b959fe48a6baf682.ts
+mitv://starvod.xyz:19806/4eebafee9ada46c9b959fe48a6baf682.ts
 #EXTINF:-1 group-title="特闽频晴",pₒₚc电影频晴
-P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
+mitv://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 #EXTINF:-1 group-title="特闽频晴",美亚电影频晴
-P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+mitv://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 #EXTINF:-1 group-title="特闽频晴",龙华电影频晴
-P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+mitv://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
 #EXTINF:-1 group-title="特闽频晴",私人影院频晴
-P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+mitv://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 #EXTINF:-1 group-title="特闽频晴",爱奇艺综频晴
-P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
+mitv://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
 #EXTINF:-1 group-title="特闽频晴",八度空间频晴
-P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
+mitv://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
 #EXTINF:-1 group-title="特闽频晴",Ftv_城市频晴
-P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
+mitv://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
 #EXTINF:-1 group-title="特闽频晴",Ftv1时代东晴
-P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
+mitv://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
 #EXTINF:-1 group-title="特闽频晴",Ftv1时代西晴
-P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+mitv://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
 #EXTINF:-1 group-title="特闽频晴",Ftv2时代频晴
-P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
+mitv://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
 #EXTINF:-1 group-title="特闽频晴",thrill电影频晴
-P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
+mitv://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
 #EXTINF:-1 group-title="特闽频晴",中天亚洲频晴
-P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
+mitv://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 group-title="特闽频晴",中视经典频晴
-P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
+mitv://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
 #EXTINF:-1 group-title="特闽频晴",民视第一频晴
-P2p://starvod.xyz:19806/6a62462b09e141a289c6882ef0ae3d6d.ts
+mitv://starvod.xyz:19806/6a62462b09e141a289c6882ef0ae3d6d.ts
 #EXTINF:-1 group-title="特闽频晴",民视闽语频晴
-P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
+mitv://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
 #EXTINF:-1 group-title="特闽频晴",台视财经频晴
-P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
+mitv://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
 #EXTINF:-1 group-title="特闽频晴",台视综合频晴
-P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
+mitv://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
 #EXTINF:-1 group-title="特闽频晴",寰宇闽南频晴
-P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
+mitv://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
 #EXTINF:-1 group-title="特闽频晴",tvbs亚洲频晴
-P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
+mitv://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
 #EXTINF:-1 group-title="特闽频晴",tvbs精采频晴
-P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
+mitv://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
 #EXTINF:-1 group-title="特闽频晴",龙华偶像频晴
-P2p://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
+mitv://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
 #EXTINF:-1 group-title="特闽频晴",龙华戏剧频晴
-P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+mitv://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
 #EXTINF:-1 group-title="特闽频晴",采昌影剧频晴
-P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
+mitv://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
 #EXTINF:-1 group-title="特闽频晴",数位电影频晴
-P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
+mitv://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
 #EXTINF:-1 group-title="特闽频晴",壹电影'tv频晴
-P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+mitv://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
 #EXTINF:-1 group-title="特闽频晴",靖天电影频晴
-P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+mitv://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
 #EXTINF:-1 group-title="特闽频晴",靖天戏剧频晴
-P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
+mitv://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
 #EXTINF:-1 group-title="特闽频晴",靖天映画频晴
-P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
+mitv://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
 #EXTINF:-1 group-title="特闽频晴",靖天资讯频晴
-P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
+mitv://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
 #EXTINF:-1 group-title="特闽频晴",靖天综合频晴
-P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+mitv://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
 #EXTINF:-1 group-title="特闽频晴",靖天国际频晴
-P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
+mitv://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
 #EXTINF:-1 group-title="特闽频晴",靖天日本频晴
-P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
+mitv://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
 #EXTINF:-1 group-title="特闽频晴",靖天育乐频晴
-P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
+mitv://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
 #EXTINF:-1 group-title="特闽频晴",ELta影剧频晴
-P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+mitv://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
 #EXTINF:-1 group-title="特闽频晴",EYE-戏剧频晴
-P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
+mitv://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
 #EXTINF:-1 group-title="特闽频晴",SMARt知识晴
-P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+mitv://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 #EXTINF:-1 group-title="特闽频晴",韩国娱乐频晴
-P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
+mitv://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
 #EXTINF:-1 group-title="特闽频晴",三立戏剧频晴
-P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
+mitv://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
 #EXTINF:-1 group-title="特闽频晴",三立综合频晴
-P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
+mitv://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
 #EXTINF:-1 group-title="特闽频晴",纬来精采频晴
-P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
+mitv://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
 #EXTINF:-1 group-title="特闽频晴",壹综合'tv频晴
-P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
+mitv://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
 #EXTINF:-1 group-title="特闽频晴",靖洋戏剧频晴
-P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
+mitv://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
 #EXTINF:-1 group-title="特闽频晴",中视菁采频晴
-P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
+mitv://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
 #EXTINF:-1 group-title="特闽频晴",八大优频道晴
-P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
+mitv://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 #EXTINF:-1 group-title="央卫高码",CCTV-01高码
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 #EXTINF:-1 group-title="央卫高码",CCTV-02高码
