@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 group-title="洛奇TV" tvg-name="更新时间2026.5.20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.5.20
+#EXTINF:-1 group-title="洛奇TV" tvg-name="更新时间2026.5.21" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.5.21
 http://xxxxxx.mp4
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV1.png",CCTV1
 https://iptv.catvod.com/live.php?id=CCTV1&line=4
@@ -81,6 +81,8 @@ http://j.s.bkpcp.top/jj/cctv4
 http://t.061899.xyz/tl/tl.php?id=cctv4
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV4.png",CCTV4
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV4.png",CCTV4
+p3p://focus169.org:25271/67dcfe77000b52d79138a0ed4cc7303a
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5.png",CCTV5
 https://iptv.catvod.com/live.php?id=CCTV5&line=6
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5.png",CCTV5
@@ -111,6 +113,8 @@ http://j.s.bkpcp.top/jj/cctv5
 http://t.061899.xyz/tl/tl.php?id=cctv5
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5.png",CCTV5
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5.png",CCTV5
+p3p://focus169.org:25271/68b063570001c261caf5873a28f36cae
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5+.png",CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5+.png",CCTV5+
@@ -139,6 +143,8 @@ http://j.s.bkpcp.top/jj/cctv5p
 http://t.061899.xyz/tl/tl.php?id=cctv5p
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5+.png",CCTV5+
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV5+.png",CCTV5+
+p3p://focus169.org:25271/68b0696a000b71cdcb0d43e43abf2042
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV6.png",CCTV6
 https://iptv.catvod.com/live.php?id=CCTV6&line=7
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV6.png",CCTV6
@@ -159,6 +165,8 @@ http://j.s.bkpcp.top/jj/cctv6
 http://t.061899.xyz/tl/tl.php?id=cctv6
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV6.png",CCTV6
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV6.png",CCTV6
+p3p://focus169.org:25271/64260cc800087ffdedfb712c61a06569
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV7.png",CCTV7
 https://iptv.catvod.com/live.php?id=CCTV7&line=2
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV7.png",CCTV7
@@ -1147,6 +1155,8 @@ http://r.jdshipin.com/62WM7
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/GeWKr
+#EXTINF:-1 group-title="🌊港澳台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/翡翠台.png",翡翠台
+p3p://focus169.org:25271/68b98bf400009316eebbee8050411e54
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="明珠台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/明珠台.png",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="明珠台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/明珠台.png",明珠台
@@ -1167,6 +1177,8 @@ https://mgev.188766.xyz/?migutoken=d2cb1d3b27ceb7f566c0b20cbf3dbca7&id=fhzw&pp=1
 https://mgev.188766.xyz/?migutoken=488cc8d5142343a18afcd003da4d11bc&id=hk_fhzw&type=dy
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰中文.png",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰中文.png",凤凰中文
+p3p://focus169.org:25271/6884d6010003149c20d695cc31c54300
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰资讯.png",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰资讯.png",凤凰资讯
@@ -1177,6 +1189,8 @@ http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 https://mgev.188766.xyz/?migutoken=1f2a8c13256a5c1d8538242a512ad64f&id=fhzx&pp=1
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰资讯.png",凤凰资讯
 https://mgev.188766.xyz/?migutoken=24cd07d564a889ac2b4b11883e0c3710&id=hk_fhzx&type=dy
+#EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰资讯.png",凤凰资讯
+p3p://focus169.org:25271/68b0665c0002e72fcb015310459b5b02
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰香港.png",凤凰香港
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/凤凰香港.png",凤凰香港
@@ -1215,6 +1229,8 @@ https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="纬来体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/纬来体育.png",纬来体育
 https://hls-gateway.vpstv.net/streams/477026.m3u8
+#EXTINF:-1 group-title="🌊港澳台" tvg-name="纬来体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/纬来体育.png",纬来体育
+p3p://focus169.org:25271/64251ee9000a4e00ea5a428b26ea4156
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="纬来育乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/纬来育乐.png",纬来育乐
 https://hls-gateway.vpstv.net/streams/477081.m3u8
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="纬来育乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/纬来育乐.png",纬来育乐
@@ -1239,6 +1255,8 @@ https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="三立新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/三立新闻.png",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="🌊港澳台" tvg-name="三立新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/三立新闻.png",三立新闻
+p3p://focus169.org:25271/6766bc7f000ed78dc349b377648221c8
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="东森综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/东森综合.png",东森综合
 https://hls-gateway.vpstv.net/streams/476987.m3u8
 #EXTINF:-1 group-title="🌊港澳台" tvg-name="东森超视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/东森超视.png",东森超视
@@ -1327,6 +1345,8 @@ https://hls-gateway.vpstv.net/streams/477063.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="纬来电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/纬来电影.png",纬来电影
 https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="纬来电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/纬来电影.png",纬来电影
+p3p://focus169.org:25271/64251eae0001bef7ea5959e100ae671e
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天映画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/靖天映画.png",靖天映画
 https://hls-gateway.vpstv.net/streams/476302.m3u8
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天映画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/靖天映画.png",靖天映画
@@ -1509,18 +1529,18 @@ http://feilong123.vip/409990236/iptv/gdy.php?id=16
 http://feilong123.vip/409990236/iptv/gdy.php?id=19
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界36" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界36.png",咪视界36
 http://feilong123.vip/409990236/iptv/gdy.php?id=4
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="05-21⬇️NBA西部决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-21⬇️NBA西部决赛⬇️🏀📡.png",05-21⬇️NBA西部决赛⬇️🏀📡
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="05-22⬇️NBA东部决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-22⬇️NBA东部决赛⬇️🏀📡.png",05-22⬇️NBA东部决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:30马刺(1🆚0)雷霆" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:30马刺(1🆚0)雷霆.png",08:30马刺(1🆚0)雷霆
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="08:00骑士(0🆚1)尼克斯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00骑士(0🆚1)尼克斯.png",08:00骑士(0🆚1)尼克斯
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="粤🔊21小肥述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/粤🔊21小肥述.png",粤🔊21小肥述
-http://rihou.cc:555/tv/21NBA小肥述
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊21咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊21咪评述.png",国🔊21咪评述
-http://rihou.cc:555/tv/21NBA咪评述
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊21腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊21腾评述.png",国🔊21腾评述
-http://rihou.cc:555/tv/21NBA腾评述
-#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊21纬来述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊21纬来述.png",国🔊21纬来述
-http://rihou.cc:555/tv/21NBA纬来述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="粤🔊22小肥述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/粤🔊22小肥述.png",粤🔊22小肥述
+http://rihou.cc:555/tv/22NBA小肥述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊22咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22咪评述.png",国🔊22咪评述
+http://rihou.cc:555/tv/22NBA咪评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊22腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22腾评述.png",国🔊22腾评述
+http://rihou.cc:555/tv/22NBA腾评述
+#EXTINF:-1 group-title="🏀NBA赛评" tvg-name="国🔊22纬来述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22纬来述.png",国🔊22纬来述
+http://rihou.cc:555/tv/22NBA纬来述
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
@@ -1647,26 +1667,6 @@ https://live.ottiptv.cc/bilibili/30837590
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="漫画解说" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/漫画解说.png",漫画解说
 https://yylunbo.ottiptv.cc/yy/1382735568
-#EXTINF:-1 group-title="5/22赛事" tvg-name="05-22⬇️CBA季后赛半决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-22⬇️CBA季后赛半决赛⬇️🏀📡.png",05-22⬇️CBA季后赛半决赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/22赛事" tvg-name="05-22⬇️NBA东部决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-22⬇️NBA东部决赛⬇️🏀📡.png",05-22⬇️NBA东部决赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/22赛事" tvg-name="08:00骑士(0🆚1)尼克斯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00骑士(0🆚1)尼克斯.png",08:00骑士(0🆚1)尼克斯
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/22赛事" tvg-name="19:35北京北汽🆚上海久事" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/19:35北京北汽🆚上海久事.png",19:35北京北汽🆚上海久事
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/22赛事" tvg-name="国🔊22咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22咪评述.png",国🔊22咪评述
-http://rihou.cc:555/tv/22NBA咪评述
-#EXTINF:-1 group-title="5/22赛事" tvg-name="国🔊22抖评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22抖评述.png",国🔊22抖评述
-http://rihou.cc:555/tv/22CBA抖评述
-#EXTINF:-1 group-title="5/22赛事" tvg-name="国🔊22纬来述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22纬来述.png",国🔊22纬来述
-http://rihou.cc:555/tv/22NBA纬来述
-#EXTINF:-1 group-title="5/22赛事" tvg-name="国🔊22腾评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊22腾评述.png",国🔊22腾评述
-http://rihou.cc:555/tv/22NBA腾评述
-#EXTINF:-1 group-title="5/22赛事" tvg-name="粤🔊22丁伟杰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/粤🔊22丁伟杰.png",粤🔊22丁伟杰
-http://rihou.cc:555/tv/22CBA丁伟杰
-#EXTINF:-1 group-title="5/22赛事" tvg-name="粤🔊22小肥述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/粤🔊22小肥述.png",粤🔊22小肥述
-http://rihou.cc:555/tv/22NBA小肥述
 #EXTINF:-1 group-title="5/23赛事" tvg-name="01:00中国U17🆚日本U17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/01:00中国U17🆚日本U17.png",01:00中国U17🆚日本U17
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="05-23⬇️NBA西部决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-23⬇️NBA西部决赛⬇️🏀📡.png",05-23⬇️NBA西部决赛⬇️🏀📡
@@ -1697,7 +1697,11 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/23赛事" tvg-name="05-23⬇️苏超常规赛第7周⬇️⚽📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-23⬇️苏超常规赛第7周⬇️⚽📡.png",05-23⬇️苏超常规赛第7周⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/23赛事" tvg-name="08:30雷霆🆚马刺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:30雷霆🆚马刺.png",08:30雷霆🆚马刺
+#EXTINF:-1 group-title="5/23赛事" tvg-name="05-23⬇️贵州村超联赛⬇️⚽📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-23⬇️贵州村超联赛⬇️⚽📡.png",05-23⬇️贵州村超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/23赛事" tvg-name="08:30雷霆(1🆚1)马刺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:30雷霆(1🆚1)马刺.png",08:30雷霆(1🆚1)马刺
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事" tvg-name="14:20阳光村足球队🆚腊酉村足球队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/14:20阳光村足球队🆚腊酉村足球队.png",14:20阳光村足球队🆚腊酉村足球队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="14:50兴安盟队🆚巴彦淖尔队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/14:50兴安盟队🆚巴彦淖尔队.png",14:50兴安盟队🆚巴彦淖尔队
 http://rihou.cc:555/tv/v
@@ -1709,11 +1713,15 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="15:50阿拉善队🆚通辽队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/15:50阿拉善队🆚通辽队.png",15:50阿拉善队🆚通辽队
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事" tvg-name="16:30场坝大河口将军岩队🆚仁吉村村牛足球队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/16:30场坝大河口将军岩队🆚仁吉村村牛足球队.png",16:30场坝大河口将军岩队🆚仁吉村村牛足球队
+http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="18:00塔城队🆚乌鲁木齐队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:00塔城队🆚乌鲁木齐队.png",18:00塔城队🆚乌鲁木齐队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="18:00巴州队🆚喀什队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:00巴州队🆚喀什队.png",18:00巴州队🆚喀什队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="18:00沈阳🆚鸡西" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:00沈阳🆚鸡西.png",18:00沈阳🆚鸡西
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事" tvg-name="18:30探路者球队🆚爱未来榕江公益慈善队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:30探路者球队🆚爱未来榕江公益慈善队.png",18:30探路者球队🆚爱未来榕江公益慈善队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="18:50赤峰队🆚包头队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:50赤峰队🆚包头队.png",18:50赤峰队🆚包头队
 http://rihou.cc:555/tv/v
@@ -1803,6 +1811,8 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="20:00深圳队🆚东莞队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/20:00深圳队🆚东莞队.png",20:00深圳队🆚东莞队
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事" tvg-name="20:30平永村足球队🆚安乐村足球队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/20:30平永村足球队🆚安乐村足球队.png",20:30平永村足球队🆚安乐村足球队
+http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="21:00伊犁队🆚昌吉队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/21:00伊犁队🆚昌吉队.png",21:00伊犁队🆚昌吉队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23东评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23东评评.png",国🔊23东评评
@@ -1831,6 +1841,14 @@ http://rihou.cc:555/tv/23川超咪评述
 http://rihou.cc:555/tv/23川超咪述评
 #EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23川述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23川述述.png",国🔊23川述述
 http://rihou.cc:555/tv/23川超咪述述
+#EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23村评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23村评评.png",国🔊23村评评
+http://rihou.cc:555/tv/23村超咪评评
+#EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23村评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23村评述.png",国🔊23村评述
+http://rihou.cc:555/tv/23村超咪评述
+#EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23村述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23村述评.png",国🔊23村述评
+http://rihou.cc:555/tv/23村超咪述评
+#EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23村述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23村述述.png",国🔊23村述述
+http://rihou.cc:555/tv/23村超咪述述
 #EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23疆评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23疆评评.png",国🔊23疆评评
 http://rihou.cc:555/tv/23疆超咪评评
 #EXTINF:-1 group-title="5/23赛事" tvg-name="国🔊23疆评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊23疆评述.png",国🔊23疆评述
@@ -1941,7 +1959,11 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/24赛事" tvg-name="05-24⬇️英超第37轮联赛⬇️⚽📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-24⬇️英超第37轮联赛⬇️⚽📡.png",05-24⬇️英超第37轮联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/24赛事" tvg-name="05-24⬇️贵州村超联赛⬇️⚽📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/05-24⬇️贵州村超联赛⬇️⚽📡.png",05-24⬇️贵州村超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/24赛事" tvg-name="08:00尼克斯🆚骑士" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:00尼克斯🆚骑士.png",08:00尼克斯🆚骑士
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事" tvg-name="14:20大利村🆚忠诚村足球队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/14:20大利村🆚忠诚村足球队.png",14:20大利村🆚忠诚村足球队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="15:50乌兰察布队🆚呼伦贝尔队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/15:50乌兰察布队🆚呼伦贝尔队.png",15:50乌兰察布队🆚呼伦贝尔队
 http://rihou.cc:555/tv/v
@@ -1951,9 +1973,13 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="16:00韶关队🆚汕尾队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/16:00韶关队🆚汕尾队.png",16:00韶关队🆚汕尾队
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事" tvg-name="16:30党相村塔石羊瘪队🆚党调村贵州村徒队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/16:30党相村塔石羊瘪队🆚党调村贵州村徒队.png",16:30党相村塔石羊瘪队🆚党调村贵州村徒队
+http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="17:00青岛海牛🆚重庆铜梁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/17:00青岛海牛🆚重庆铜梁.png",17:00青岛海牛🆚重庆铜梁
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="18:30和田队🆚克州队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:30和田队🆚克州队.png",18:30和田队🆚克州队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事" tvg-name="18:30高硐村足球队🆚寿洞村足球队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/18:30高硐村足球队🆚寿洞村足球队.png",18:30高硐村足球队🆚寿洞村足球队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="19:00云南玉昆🆚青岛西岸" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/19:00云南玉昆🆚青岛西岸.png",19:00云南玉昆🆚青岛西岸
 http://rihou.cc:555/tv/v
@@ -1991,6 +2017,8 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="20:00上海申花🆚深圳鹏城" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/20:00上海申花🆚深圳鹏城.png",20:00上海申花🆚深圳鹏城
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事" tvg-name="20:30小堡村足球队🆚富民村足球队" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/20:30小堡村足球队🆚富民村足球队.png",20:30小堡村足球队🆚富民村足球队
+http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="23:00利物浦🆚屈福特" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/23:00利物浦🆚屈福特.png",23:00利物浦🆚屈福特
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/24赛事" tvg-name="23:00富咸🆚纽卡素" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/23:00富咸🆚纽卡素.png",23:00富咸🆚纽卡素
@@ -2023,6 +2051,14 @@ http://rihou.cc:555/tv/24中超咪述评
 http://rihou.cc:555/tv/24中超咪述述
 #EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24咪评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24咪评述.png",国🔊24咪评述
 http://rihou.cc:555/tv/24NBA咪评述
+#EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24村评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24村评评.png",国🔊24村评评
+http://rihou.cc:555/tv/24村超咪评评
+#EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24村评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24村评述.png",国🔊24村评述
+http://rihou.cc:555/tv/24村超咪评述
+#EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24村述评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24村述评.png",国🔊24村述评
+http://rihou.cc:555/tv/24村超咪述评
+#EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24村述述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24村述述.png",国🔊24村述述
+http://rihou.cc:555/tv/24村超咪述述
 #EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24浙旁述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24浙旁述.png",国🔊24浙旁述
 http://rihou.cc:555/tv/24浙超咪旁述
 #EXTINF:-1 group-title="5/24赛事" tvg-name="国🔊24浙评评" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊24浙评评.png",国🔊24浙评评
