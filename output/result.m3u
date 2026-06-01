@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 group-title="洛奇TV" tvg-name="更新时间2026.5.31" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.5.31
+#EXTINF:-1 group-title="洛奇TV" tvg-name="更新时间2026.6.1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/洛奇TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.6.1
 http://xxxxxx.mp4
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/CCTV1.png",CCTV1
 https://iptv.catvod.com/live.php?id=CCTV1&line=4
@@ -1459,76 +1459,74 @@ http://feilong123.vip/409990236/iptv/gdy.php?id=7
 http://feilong123.vip/409990236/iptv/gdy.php?id=46
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="至臻视界4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/至臻视界4K.png",至臻视界4K
 http://feilong123.vip/409990236/iptv/gdy.php?id=47
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="至臻视界4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/至臻视界4K.png",至臻视界4K
+http://feilong123.vip/409990236/iptv/gdy.php?id=4
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界1.png",咪视界1
 http://feilong123.vip/409990236/iptv/gdy.php?id=6
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界2.png",咪视界2
-http://feilong123.vip/409990236/iptv/gdy.php?id=5
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界3.png",咪视界3
 http://feilong123.vip/409990236/iptv/gdy.php?id=8
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界4.png",咪视界4
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界3.png",咪视界3
 http://feilong123.vip/409990236/iptv/gdy.php?id=9
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界5.png",咪视界5
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界4.png",咪视界4
 http://feilong123.vip/409990236/iptv/gdy.php?id=17
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界6.png",咪视界6
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界5.png",咪视界5
 http://feilong123.vip/409990236/iptv/gdy.php?id=10
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界6.png",咪视界6
+http://feilong123.vip/409990236/iptv/gdy.php?id=11
 #EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界8.png",咪视界8
-http://feilong123.vip/409990236/iptv/gdy.php?id=13
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界9.png",咪视界9
 http://feilong123.vip/409990236/iptv/gdy.php?id=12
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界10.png",咪视界10
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界9.png",咪视界9
 http://feilong123.vip/409990236/iptv/gdy.php?id=21
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界11.png",咪视界11
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界10.png",咪视界10
 http://feilong123.vip/409990236/iptv/gdy.php?id=45
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界12.png",咪视界12
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界11.png",咪视界11
 http://feilong123.vip/409990236/iptv/gdy.php?id=36
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界13.png",咪视界13
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界12.png",咪视界12
 http://feilong123.vip/409990236/iptv/gdy.php?id=25
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界14.png",咪视界14
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界13.png",咪视界13
 http://feilong123.vip/409990236/iptv/gdy.php?id=26
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界15.png",咪视界15
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界14.png",咪视界14
 http://feilong123.vip/409990236/iptv/gdy.php?id=27
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界16.png",咪视界16
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界15.png",咪视界15
 http://feilong123.vip/409990236/iptv/gdy.php?id=14
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界17.png",咪视界17
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界16.png",咪视界16
 http://feilong123.vip/409990236/iptv/gdy.php?id=28
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界18" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界18.png",咪视界18
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界17.png",咪视界17
 http://feilong123.vip/409990236/iptv/gdy.php?id=29
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界19" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界19.png",咪视界19
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界18" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界18.png",咪视界18
 http://feilong123.vip/409990236/iptv/gdy.php?id=30
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界20.png",咪视界20
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界19" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界19.png",咪视界19
 http://feilong123.vip/409990236/iptv/gdy.php?id=31
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界21" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界21.png",咪视界21
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界20" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界20.png",咪视界20
 http://feilong123.vip/409990236/iptv/gdy.php?id=32
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界22" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界22.png",咪视界22
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界21" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界21.png",咪视界21
 http://feilong123.vip/409990236/iptv/gdy.php?id=15
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界23" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界23.png",咪视界23
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界22" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界22.png",咪视界22
 http://feilong123.vip/409990236/iptv/gdy.php?id=34
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界24" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界24.png",咪视界24
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界23" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界23.png",咪视界23
 http://feilong123.vip/409990236/iptv/gdy.php?id=35
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界25.png",咪视界25
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界24" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界24.png",咪视界24
 http://feilong123.vip/409990236/iptv/gdy.php?id=37
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界26" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界26.png",咪视界26
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界25" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界25.png",咪视界25
 http://feilong123.vip/409990236/iptv/gdy.php?id=38
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界27" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界27.png",咪视界27
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界26" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界26.png",咪视界26
 http://feilong123.vip/409990236/iptv/gdy.php?id=39
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界28" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界28.png",咪视界28
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界27" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界27.png",咪视界27
 http://feilong123.vip/409990236/iptv/gdy.php?id=40
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界29" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界29.png",咪视界29
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界28" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界28.png",咪视界28
 http://feilong123.vip/409990236/iptv/gdy.php?id=41
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界30" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界30.png",咪视界30
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界29" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界29.png",咪视界29
 http://feilong123.vip/409990236/iptv/gdy.php?id=42
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界31" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界31.png",咪视界31
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界30" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界30.png",咪视界30
 http://feilong123.vip/409990236/iptv/gdy.php?id=43
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界32" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界32.png",咪视界32
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界31" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界31.png",咪视界31
 http://feilong123.vip/409990236/iptv/gdy.php?id=44
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界33" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界33.png",咪视界33
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界32" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界32.png",咪视界32
 http://feilong123.vip/409990236/iptv/gdy.php?id=22
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界34" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界34.png",咪视界34
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界33" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界33.png",咪视界33
 http://feilong123.vip/409990236/iptv/gdy.php?id=16
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界35" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界35.png",咪视界35
+#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界34" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界34.png",咪视界34
 http://feilong123.vip/409990236/iptv/gdy.php?id=19
-#EXTINF:-1 group-title="🎥咪视界" tvg-name="咪视界36" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/咪视界36.png",咪视界36
-http://feilong123.vip/409990236/iptv/gdy.php?id=4
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/动漫秀场.png",动漫秀场
@@ -1655,20 +1653,6 @@ https://live.ottiptv.cc/bilibili/30837590
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 group-title="🪁动画频道" tvg-name="漫画解说" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/漫画解说.png",漫画解说
 https://yylunbo.ottiptv.cc/yy/1382735568
-#EXTINF:-1 group-title="6/02赛事" tvg-name="06-02⬇️CBA总决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06-02⬇️CBA总决赛⬇️🏀📡.png",06-02⬇️CBA总决赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/02赛事" tvg-name="06-02⬇️土伦杯小组赛⬇️⚽📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06-02⬇️土伦杯小组赛⬇️⚽📡.png",06-02⬇️土伦杯小组赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/02赛事" tvg-name="19:35上海久事(3🆚0)浙江浙商" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/19:35上海久事(3🆚0)浙江浙商.png",19:35上海久事(3🆚0)浙江浙商
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/02赛事" tvg-name="21:00中国U19🆚民主刚果U23" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/21:00中国U19🆚民主刚果U23.png",21:00中国U19🆚民主刚果U23
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/02赛事" tvg-name="国🔊02土评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊02土评述.png",国🔊02土评述
-http://rihou.cc:555/tv/02土伦咪评述
-#EXTINF:-1 group-title="6/02赛事" tvg-name="国🔊02抖评述" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/国🔊02抖评述.png",国🔊02抖评述
-http://rihou.cc:555/tv/02CBA抖评述
-#EXTINF:-1 group-title="6/02赛事" tvg-name="粤🔊02丁伟杰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/粤🔊02丁伟杰.png",粤🔊02丁伟杰
-http://rihou.cc:555/tv/02CBA丁伟杰
 #EXTINF:-1 group-title="6/04赛事" tvg-name="06-04⬇️NBA总决赛⬇️🏀📡" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/06-04⬇️NBA总决赛⬇️🏀📡.png",06-04⬇️NBA总决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="6/04赛事" tvg-name="08:30尼克斯(0🆚0)马刺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/lynchceng/lq-tv/main/logo/08:30尼克斯(0🆚0)马刺.png",08:30尼克斯(0🆚0)马刺
