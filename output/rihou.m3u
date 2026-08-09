@@ -131,98 +131,26 @@ http://rihou.cc:555/tv/[Pd]CH5综合
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 group-title="欣赏Pdtv",astroaodPdtv
 http://rihou.cc:555/tv/[Pd]astroaod
-#EXTINF:-1 group-title="疆超08赛",08-08⬇️疆超季军赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="疆超08赛",21:00吐鲁番队🆚阿勒泰队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="疆超08赛",国🔊08疆评述
-http://rihou.cc:555/tv/08疆超咪评述
-#EXTINF:-1 group-title="热身09赛",08-09⬇️足球热身赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="热身09赛",19:00曼城🆚马体会
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="热身09赛",国🔊09热评述
-http://rihou.cc:555/tv/09热身咪评述
-#EXTINF:-1 group-title="热身09赛",20:00车路士🆚柔佛新山
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="热身09赛",国🔊09热述评
-http://rihou.cc:555/tv/09热身咪述评
-#EXTINF:-1 group-title="热身09赛",21:30利物浦🆚摩纳哥
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="热身09赛",国🔊09热评评
-http://rihou.cc:555/tv/09热身咪评评
-#EXTINF:-1 group-title="中超09赛",08-09⬇️中超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="中超09赛",19:00河南俱乐🆚青岛西岸
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超09赛",国🔊09中评述
-http://rihou.cc:555/tv/09中超咪评述
-#EXTINF:-1 group-title="中超09赛",19:35重庆铜梁🆚上海海港
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超09赛",国🔊09中述评
-http://rihou.cc:555/tv/09中超咪述评
-#EXTINF:-1 group-title="中超09赛",20:00山东泰山🆚天津门虎
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超09赛",国🔊09中评评
-http://rihou.cc:555/tv/09中超咪评评
-#EXTINF:-1 group-title="女篮09赛",08-09⬇️中国女篮系列热身赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="女篮09赛",19:30中国女篮🆚尼日利亚女篮
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮09赛",国🔊09篮评述
-http://rihou.cc:555/tv/09女篮咪评述
-#EXTINF:-1 group-title="鲁超09赛",08-09⬇️山东省足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="鲁超09赛",19:30枣庄丰源轮胎队🆚东营队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="鲁超09赛",国🔊09鲁评述
-http://rihou.cc:555/tv/09鲁超咪评述
-#EXTINF:-1 group-title="鲁超09赛",19:30青岛平企联青春🆚淄博齐稷锐思达
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="鲁超09赛",国🔊09鲁述评
-http://rihou.cc:555/tv/09鲁超咪述评
-#EXTINF:-1 group-title="东北09赛",08-09⬇️东北地区足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="东北09赛",19:35呼和浩特🆚沈阳
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="东北09赛",国🔊09东评述
-http://rihou.cc:555/tv/09东北超评述
-#EXTINF:-1 group-title="湘超09赛",08-09⬇️湖南省足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="湘超09赛",19:38邵阳队🆚怀化队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="湘超09赛",国🔊09湘评述
-http://rihou.cc:555/tv/09湘超咪评述
-#EXTINF:-1 group-title="湘超09赛",19:38永州队🆚株洲队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="湘超09赛",国🔊09湘述评
-http://rihou.cc:555/tv/09湘超咪述评
-#EXTINF:-1 group-title="疆超09赛",08-09⬇️疆超冠军赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="疆超09赛",21:00喀什队🆚伊犁队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="疆超09赛",国🔊09疆评述
-http://rihou.cc:555/tv/09疆超咪评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943268680168758_wjh514.flv?cdntagname=wjh514&combuf=EKMio%2FqFiQnCwQ2LY3ZGB682nr%2F67pmf5SpBqUEer%2BMaUSaG1HzE%2BS28MUcO9gQA%2BHNQZspHxYVtJmTlW3zl%2B%2B%2FOIC8q6qSYb94ThKZf7xt4hJKlAzdUomDK9CJaGnZIm2pdWEiTUwtFHuUGqN07&expt=&extbuf=X7n59fpB84JESTPE2r3CBpm7hInAKAy%2F4L2Sqhg9%2FiQe2DMaI8rIzJY%2FUo33yeswQe6E4iYA8vPMQj%2BourCKrDFuAUtdrvSN5ycZ%2Bb83ciuWAquK0T4IxEHFYHa4pv26duvU7hBVoLQv7Mkj61%2BmH7ykEBot%2Ba8BCgXWPC%2BMo7sJ7Xp4%2FVXL8bchRtPof1%2F6YADtWcs1bSeosf%2B8j2lE60jlIzbX&gid=13454943&openid=5C0C7A78F7E01B0C5D374D2704035B01&q=3&sc=500&sv=1&txSecret=664ecab4f9fa47e5d9f4dcfe8579f728&txTime=6A788B34&vcodec=2&wu=1&wxns=1&wxtoken=19d299766f247b6185c630e2f1fa5219
+https://pull-m1.wxlivecdn.com/trtc_1400439699/live_2042943618509411672_wjh514.flv?cdntagname=wjh514&combuf=VNC88WVXUtfGGSBoV7Ud3GfI%2FRH8ZTkze32MvxkyTRo6UtYR4kPNFnjLEuLLCMqo%2FXgZy7oZPzYr9nrVXACt60ynb7p%2BTMdSDRAvMpWUgkfFq1jFUkUlp7gUdLg%2Fbvk7F%2FRJz9sUBoAwpuGZL4U2&expt=&extbuf=0As1Rvc%2Fxa8jdm5QNvvTX4tYw1TlHK20j5%2BYdp%2B1VMr8JRuwypjAtg%2BIlux%2B%2BIMnOpnA3tI1LXNOHPwgHyHphop8dvS3COSpFashmNYc7iBGPfhkugoIuAOak%2FKceWp1j9uH%2BSydTvx7hfLcwl3YpgcViatNcM1hrOwvlPe38NGbWGznfH4B6T%2B2GG7QI67hQnsLiykJzJEL4JOr1BL3NticGyh0&gid=13454943&openid=5AC6EEE5F6F8EDA2DE636F184041B172&q=3&sc=500&sv=1&txSecret=cc7a8d758ba93b10f76d457f8b699a98&txTime=6A79D153&vcodec=2&wu=1&wxns=1&wxtoken=27ad9e1c1b9f3e6f8e806c6d03cd4039
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
 http://rihou.cc:555/tv/联赛回放赛09
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
@@ -966,9 +894,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐播库抖播
 video://http://rihou.cc:555/tv/网页播库
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042943112869095148_orig.flv?cdntagname=orig&combuf=x%2FWytFLpnJLouBDdZolahBtOx%2BSy5hs9mf5h2MBpJ4SScQ04Anx0Xy%2FAmaMm8gsCLkquBfpQL1JmWhZC2M0ivwoDeZwQUbM46SuK%2FtM9vpPC17S443kE7MoiABF2vvYrldSj%2FppNspklA5eHnbJ%2FrVVpfJm8RzJkDNZXLoKDhU%2B6Ly%2B5o1kbINdTkyc8NA0KFC%2BthGpTX5a%2BYA4789tBK5VXrZ2wV7T5mir2%2F7QRLAuTKrXx&expt=&extbuf=X50dC%2BReEssHdJKUIoR01ucsxTnTjNjm9dhSeI1hNht%2FIA3XCjuIaWoqmiHrqjJy5Jqu%2FnVxf0QbOcyWekudV3GZTu30YhVYUWtl1gvxNOziDM1qhcOb%2FtOuaP%2BdVo3zIMjQcWn9IJ0HtlxTEkHjyP1511oxkgBwYzkXxdh1%2BUR10MwfWOSyBGCos%2FsU0qrbNW7GcTItIHdcJ8LkR4rwKx41kHkB&gid=&openid=9C566958C82576DE093FDDE183AD538D&q=4&sc=500&sv=1&txSecret=b791675cc3ae417c8419457d39450ed0&txTime=6A788ADD&vcodec=1&wu=1&wxns=1&wxtoken=dcb54ce9d8ebd3873704226a9a4792b6
+https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042943340797212293_orig.flv?cdntagname=orig&combuf=Npi4gSc0Z6gtC1ZJjZhBBj915CoMRgcm4f50ggKQ69agTHdKFoNG2oqSD8rjBx8PL%2B0zmhbRSfxaN6exFS59BNH1CTmaawIMP38DLMCmC%2FsB980pBmkR%2FBP4Asx1aHYL0eWOJqroxk6DcUI72Q3EV6MZb6OcMjPknWxdwfOoRAJdsbVwUMEbcJpHwgh%2BaLhxdKrQCvFD77zqd2EDlAocfqU7UCWG7HceEQ2LDb6yakEo6pvr&expt=&extbuf=zISfx0OgM%2Fb0uYB7vdhLZW%2BBl93C8czMaDHf4Od1d6YeY24b5Y2T3havh5ejo7vf9oqAdgwVyz3MecqxPUj4H%2FXUo7PxDvnfJzlI3aE4ubKes6qzysZqhJPUKbaUQc%2BU5jM79SLLfz4pCNVJRBCVNB5yFaj3deEBFVdh2rTAHOloBOYC7EFYFB8%2Fp0ijGKRnqUPeOjIM%2FBgneW7%2BDBWuHmXMhKUv&gid=&openid=C77CD7420FD734B9C10B2A1EA5358FAD&q=4&sc=500&sv=1&txSecret=c624fbb01158a35396c449268e370a71&txTime=6A79D1B3&vcodec=1&wu=1&wxns=1&wxtoken=084d2bd94d1b5ae81f05c173209ed74f
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042943213441881358_h264.flv?cdntagname=h264&combuf=HOu%2Bz%2FDKq7dB6NrXFRdemEJMm4VBjrX%2BdFWpc1XEzkYglJhshPGVQLQKwqlDsvsMq3LFkbKf%2Bc467qAQY9GIsZOWPU69Mnar8m7XJfvhGO1JWYnAAok%2FTPmCawkMjlxJkCZ7Tb1DVFcZXG%2FWSJv2RK8HwkFSk08ESowmHvs8GKe28fnYBvp0vQu958k%2FazNSoXEy80%2BEnR3eZXFI9a%2FiZx%2B1H4updl4WqsEv6Oxxc92Gvg%3D%3D&expt=&extbuf=pd9a5Td6X4QlBUb822Ize1ngmSyNKIvJOxx7FZ3g6vCCt5t1lQBW9DdBme2z7pbZm4q6qRS7NF9YeZaKuK%2FcrcQNhB7f0ZBOZ0cjN6jhfvrnfSFhbOqEFSEXeMCpRt6OJm3c8cUgUSmrx3hdJSbVqr3%2Fv%2BtIkONI6XkysPsS3f2mcedFVMuU9Hu89lDyojKg18zv1X%2B6e0Jamb3NbZ4U%2FggEUQ%3D%3D&gid=&openid=F05F89840C93ED835D038B7AB5BD8E3A&q=4&sc=500&sv=1&txSecret=6b805e0bc08535c2e5b84b933386f54a&txTime=6A788AD4&vcodec=1&wu=1&wxext=0_3000_0&wxns=1&wxtoken=34821db4229a700a14279cac4e8fe7f1
+https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042943548128634167_orig.flv?cdntagname=orig&combuf=YxIhfsmirWJ%2F8gVBK7TnGnYbdtCSFhuXspITJSU0EBclivdmiUOvomRLyHf3rrkkdgeClPYvHzaM56%2BtUzenvWK3xUVswn7bIVJ%2FAuKk0alsmM6dPjN%2BAT7Ajx7%2BR58aMivCT3WvPSmJzo1NMIhcmwMKF91gI8JZHIAyCehhbMdUXGZ4%2FOBY32xZg%2BSv1W4InkG%2F5J9C4myDfa6qiRfpm%2Fp0EImTUAf3%2BAxXaNC17%2FYiRg%3D%3D&expt=&extbuf=IP2UcFUtAQBCwb4Uor2e81WC%2FUYpi2JMeDHHwaVVPhRKt79vqiQ38oOIUpTVNuoMt9GA1LMas3%2BVuv4Fvj%2BWWM0X5jZ9NtBJN9TvAxAslDgVx7r6nCOZbNIloPnR%2BWAaFfWG7lNZkM85UKgLBLTPknG5nmSrRP%2FiiIp3h1mdrqyMpbrZpVLpmQ6UXG3xdKpcEifZllxgBpNuvTOtpWz5mJ47XeY%2B&gid=&openid=5AD8392B96A976B7C0770F628B959F43&q=4&sc=500&sv=1&txSecret=4007ba9f2008144ef7f1f8e577861f7a&txTime=6A79D1D6&vcodec=1&wu=1&wxns=1&wxtoken=135050f1076a48dc6de78e513c2ce7da
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
 http://rihou.cc:555/tv/音乐库仓抖09
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
