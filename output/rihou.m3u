@@ -129,128 +129,196 @@ http://rihou.cc:555/tv/[Pd]CH8综合
 http://rihou.cc:555/tv/[Pd]astroaod
 #EXTINF:-1 group-title="欣赏Pdtv",Astr欢喜Pdtv
 http://rihou.cc:555/tv/[Pd]Astr欢喜
-#EXTINF:-1 group-title="女篮26赛,",08-26⬇️全国女篮锦标小组赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="女篮26赛,",14:00合肥文旅女队🆚四川蜀道远达
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛,",国🔊26篮评述
-http://rihou.cc:555/tv/26女篮咪评述
-#EXTINF:-1 group-title="女篮26赛,",16:00山东高速赤河🆚上海浦发银行
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛,",国🔊26篮述评
-http://rihou.cc:555/tv/26女篮咪述评
-#EXTINF:-1 group-title="女篮26赛,",17:30石家庄英励队🆚黑龙江女子队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛,",国🔊26篮评评
-http://rihou.cc:555/tv/26女篮咪评评
-#EXTINF:-1 group-title="女篮26赛,",18:00北京师范大学🆚浙江稠州银行
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛,",国🔊26篮述述
-http://rihou.cc:555/tv/26女篮咪述述
-#EXTINF:-1 group-title="女篮26赛,",19:30赣州章贡赣星🆚新疆天山女队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛,",国🔊26篮旁述
-http://rihou.cc:555/tv/26女篮咪旁述
-#EXTINF:-1 group-title="女篮26赛,",20:00北京首钢园队🆚江苏南钢女队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛,",国🔊26篮述旁
-http://rihou.cc:555/tv/26女篮咪述旁
+#EXTINF:-1 group-title="闽南4Gtv",中天新闻4gtv
+http://rihou.cc:555/tv/[4g]中天新闻
+#EXTINF:-1 group-title="闽南4Gtv",寰宇新闻4gtv
+http://rihou.cc:555/tv/[4g]寰宇新闻
+#EXTINF:-1 group-title="闽南4Gtv",东森新闻4gtv
+http://rihou.cc:555/tv/[4g]东森新闻
+#EXTINF:-1 group-title="闽南4Gtv",tvbs新闻4gtv
+http://rihou.cc:555/tv/[4g]tvbs新闻
+#EXTINF:-1 group-title="闽南4Gtv",三立新闻4gtv
+http://rihou.cc:555/tv/[4g]三立新闻
+#EXTINF:-1 group-title="闽南4Gtv",闽镜新闻4gtv
+http://rihou.cc:555/tv/[4g]闽镜新闻
+#EXTINF:-1 group-title="闽南4Gtv",中视新闻4gtv
+http://rihou.cc:555/tv/[4g]中视新闻
+#EXTINF:-1 group-title="闽南4Gtv",民视新闻4gtv
+http://rihou.cc:555/tv/[4g]民视新闻
+#EXTINF:-1 group-title="闽南4Gtv",华视新闻4gtv
+http://rihou.cc:555/tv/[4g]华视新闻
+#EXTINF:-1 group-title="闽南4Gtv",中视闽南4gtv
+http://rihou.cc:555/tv/[4g]中视闽南
+#EXTINF:-1 group-title="闽南4Gtv",民视闽南4gtv
+http://rihou.cc:555/tv/[4g]民视闽南
+#EXTINF:-1 group-title="闽南4Gtv",华视闽南4gtv
+http://rihou.cc:555/tv/[4g]华视闽南
+#EXTINF:-1 group-title="闽南4Gtv",寰宇闽南4gtv
+http://rihou.cc:555/tv/[4g]寰宇闽南
+#EXTINF:-1 group-title="闽南4Gtv",tvbs闽南4gtv
+http://rihou.cc:555/tv/[4g]tvbs闽南
+#EXTINF:-1 group-title="闽南4Gtv",tvbs精采4gtv
+http://rihou.cc:555/tv/[4g]tvbs精采
+#EXTINF:-1 group-title="闽南4Gtv",tvbs欢乐4gtv
+http://rihou.cc:555/tv/[4g]tvbs欢乐
+#EXTINF:-1 group-title="闽南4Gtv",公视戏剧4gtv
+http://rihou.cc:555/tv/[4g]公视戏剧
+#EXTINF:-1 group-title="闽南4Gtv",民视第一4gtv
+http://rihou.cc:555/tv/[4g]民视第一
+#EXTINF:-1 group-title="闽南4Gtv",民视闽语4gtv
+http://rihou.cc:555/tv/[4g]民视闽语
+#EXTINF:-1 group-title="闽南4Gtv",民视综艺4gtv
+http://rihou.cc:555/tv/[4g]民视综艺
+#EXTINF:-1 group-title="闽南4Gtv",东森财经4gtv
+http://rihou.cc:555/tv/[4g]东森财经
+#EXTINF:-1 group-title="闽南4Gtv",三立综合4gtv
+http://rihou.cc:555/tv/[4g]三立综合
+#EXTINF:-1 group-title="闽南4Gtv",靖洋戏剧4gtv
+http://rihou.cc:555/tv/[4g]靖洋戏剧
+#EXTINF:-1 group-title="闽南4Gtv",靖洋卡通4gtv
+http://rihou.cc:555/tv/[4g]靖洋卡通
+#EXTINF:-1 group-title="闽南4Gtv",靖天卡通4gtv
+http://rihou.cc:555/tv/[4g]靖天卡通
+#EXTINF:-1 group-title="闽南4Gtv",靖天综合4gtv
+http://rihou.cc:555/tv/[4g]靖天综合
+#EXTINF:-1 group-title="闽南4Gtv",靖天日本4gtv
+http://rihou.cc:555/tv/[4g]靖天日本
+#EXTINF:-1 group-title="闽南4Gtv",靖天育乐4gtv
+http://rihou.cc:555/tv/[4g]靖天育乐
+#EXTINF:-1 group-title="闽南4Gtv",靖天国际4gtv
+http://rihou.cc:555/tv/[4g]靖天国际
+#EXTINF:-1 group-title="闽南4Gtv",靖天欢乐4gtv
+http://rihou.cc:555/tv/[4g]靖天欢乐
+#EXTINF:-1 group-title="闽南4Gtv",靖天资讯4gtv
+http://rihou.cc:555/tv/[4g]靖天资讯
+#EXTINF:-1 group-title="闽南4Gtv",靖天戏剧4gtv
+http://rihou.cc:555/tv/[4g]靖天戏剧
+#EXTINF:-1 group-title="闽南4Gtv",靖天映画4gtv
+http://rihou.cc:555/tv/[4g]靖天映画
+#EXTINF:-1 group-title="闽南4Gtv",靖天电影4gtv
+http://rihou.cc:555/tv/[4g]靖天电影
+#EXTINF:-1 group-title="闽南4Gtv",amc电影4gtv
+http://rihou.cc:555/tv/[4g]amc电影
+#EXTINF:-1 group-title="闽南4Gtv",经典电影4gtv
+http://rihou.cc:555/tv/[4g]经典电影
+#EXTINF:-1 group-title="闽南4Gtv",大爱电视4gtv
+http://rihou.cc:555/tv/[4g]大爱电视
+#EXTINF:-1 group-title="闽南4Gtv",人间卫视4gtv
+http://rihou.cc:555/tv/[4g]人间卫视
+#EXTINF:-1 group-title="闽南4Gtv",猪哥亮秀4gtv
+http://rihou.cc:555/tv/[4g]猪哥亮秀
+#EXTINF:-1 group-title="闽南4Gtv",客家电视4gtv
+http://rihou.cc:555/tv/[4g]客家电视
+#EXTINF:-1 group-title="闽南4Gtv",原住民族4gtv
+http://rihou.cc:555/tv/[4g]原住民族
+#EXTINF:-1 group-title="闽南4Gtv",互动英语4gtv
+http://rihou.cc:555/tv/[4g]互动英语
+#EXTINF:-1 group-title="闽南4Gtv",金光布袋4gtv
+http://rihou.cc:555/tv/[4g]金光布袋
+#EXTINF:-1 group-title="闽南4Gtv",Nick儿童4gtv
+http://rihou.cc:555/tv/[4g]Nick儿童
+#EXTINF:-1 group-title="闽南4Gtv",MO_亲子4gtv
+http://rihou.cc:555/tv/[4g]MO-亲子
+#EXTINF:-1 group-title="闽南4Gtv",经典卡通4gtv
+http://rihou.cc:555/tv/[4g]经典卡通
+#EXTINF:-1 group-title="闽南4Gtv",精选动漫4gtv
+http://rihou.cc:555/tv/[4g]精选动漫
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛26
+http://rihou.cc:555/tv/联赛回放赛27
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛26
+http://rihou.cc:555/tv/NBA回放赛27
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛26
+http://rihou.cc:555/tv/羽球回放赛27
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛26
+http://rihou.cc:555/tv/橄球回放赛27
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛26
+http://rihou.cc:555/tv/乒球回放赛27
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛26
+http://rihou.cc:555/tv/网球回放赛27
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛26
+http://rihou.cc:555/tv/排球回放赛27
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛26
+http://rihou.cc:555/tv/格斗回放赛27
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛26
+http://rihou.cc:555/tv/斯赛回放赛27
 #EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
-http://mg.cttv.vip/608807420
+http://175.17.83.114:1234/608807420
 #EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
-http://mg.cttv.vip/631780532
+http://175.17.83.114:1234/631780532
 #EXTINF:-1 group-title="央卫咪咕",CCTV-03咪咕
-http://mg.cttv.vip/624878271
+http://175.17.83.114:1234/624878271
 #EXTINF:-1 group-title="央卫咪咕",CCTV-04咪咕
-http://mg.cttv.vip/631780421
+http://175.17.83.114:1234/631780421
 #EXTINF:-1 group-title="央卫咪咕",CCTV-05咪咕
-http://mg.cttv.vip/641886683
+http://175.17.83.114:1234/641886683
 #EXTINF:-1 group-title="央卫咪咕",CCTV-5+咪咕
-http://mg.cttv.vip/641886773
+http://175.17.83.114:1234/641886773
 #EXTINF:-1 group-title="央卫咪咕",CCTV-06咪咕
-http://mg.cttv.vip/624878396
+http://175.17.83.114:1234/624878396
 #EXTINF:-1 group-title="央卫咪咕",CCTV-07咪咕
-http://mg.cttv.vip/673168121
+http://175.17.83.114:1234/673168121
 #EXTINF:-1 group-title="央卫咪咕",CCTV-08咪咕
-http://mg.cttv.vip/624878356
+http://175.17.83.114:1234/624878356
 #EXTINF:-1 group-title="央卫咪咕",CCTV-09咪咕
-http://mg.cttv.vip/673168140
+http://175.17.83.114:1234/673168140
 #EXTINF:-1 group-title="央卫咪咕",CCTV-10咪咕
-http://mg.cttv.vip/624878405
+http://175.17.83.114:1234/624878405
 #EXTINF:-1 group-title="央卫咪咕",CCTV-11咪咕
-http://mg.cttv.vip/667987558
+http://175.17.83.114:1234/667987558
 #EXTINF:-1 group-title="央卫咪咕",CCTV-12咪咕
-http://mg.cttv.vip/673168185
+http://175.17.83.114:1234/673168185
 #EXTINF:-1 group-title="央卫咪咕",CCTV-13咪咕
-http://mg.cttv.vip/608807423
+http://175.17.83.114:1234/608807423
 #EXTINF:-1 group-title="央卫咪咕",CCTV-14咪咕
-http://mg.cttv.vip/624878440
+http://175.17.83.114:1234/624878440
 #EXTINF:-1 group-title="央卫咪咕",CCTV-15咪咕
-http://mg.cttv.vip/673168223
+http://175.17.83.114:1234/673168223
 #EXTINF:-1 group-title="央卫咪咕",CCTV-16咪咕
 http://58.255.201.70:10443/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="央卫咪咕",CCTV-17咪咕
-http://mg.cttv.vip/673168256
+http://175.17.83.114:1234/673168256
 #EXTINF:-1 group-title="央卫咪咕",cct4欧洲咪咕
-http://mg.cttv.vip/608807419
+http://175.17.83.114:1234/608807419
 #EXTINF:-1 group-title="央卫咪咕",cct4美洲咪咕
-http://mg.cttv.vip/608807416
+http://175.17.83.114:1234/608807416
 #EXTINF:-1 group-title="央卫咪咕",CGTN-西咪咕
-http://mg.cttv.vip/609006450
+http://175.17.83.114:1234/609006450
 #EXTINF:-1 group-title="央卫咪咕",CGTN-阿咪咕
-http://mg.cttv.vip/609154345
+http://175.17.83.114:1234/609154345
 #EXTINF:-1 group-title="央卫咪咕",CGTN-法咪咕
-http://mg.cttv.vip/609006476
+http://175.17.83.114:1234/609006476
 #EXTINF:-1 group-title="央卫咪咕",北京卫视咪咕
-http://mg.cttv.vip/630287636
+http://175.17.83.114:1234/630287636
 #EXTINF:-1 group-title="央卫咪咕",东方卫视咪咕
-http://mg.cttv.vip/651632648
+http://175.17.83.114:1234/651632648
 #EXTINF:-1 group-title="央卫咪咕",浙江卫视咪咕
-http://mg.cttv.vip/651632648
+http://175.17.83.114:1234/651632648
 #EXTINF:-1 group-title="央卫咪咕",江苏卫视咪咕
-http://mg.cttv.vip/623899368
+http://175.17.83.114:1234/623899368
 #EXTINF:-1 group-title="央卫咪咕",湖南卫视咪咕
-http://mg.cttv.vip/623899368
+http://175.17.83.114:1234/623899368
 #EXTINF:-1 group-title="央卫咪咕",广东卫视咪咕
-http://mg.cttv.vip/608831231
+http://175.17.83.114:1234/608831231
 #EXTINF:-1 group-title="央卫咪咕",深圳卫视咪咕
-http://mg.cttv.vip/608831231
+http://175.17.83.114:1234/608831231
 #EXTINF:-1 group-title="央卫咪咕",山东卫视咪咕
-http://mg.cttv.vip/790187291
+http://175.17.83.114:1234/790187291
 #EXTINF:-1 group-title="央卫咪咕",河南卫视咪咕
-http://mg.cttv.vip/790187291
+http://175.17.83.114:1234/790187291
 #EXTINF:-1 group-title="央卫咪咕",江西卫视咪咕
-http://mg.cttv.vip/783847495
+http://175.17.83.114:1234/783847495
 #EXTINF:-1 group-title="央卫咪咕",湖北卫视咪咕
-http://mg.cttv.vip/947472496
+http://175.17.83.114:1234/947472496
 #EXTINF:-1 group-title="央卫咪咕",海南卫视咪咕
-http://mg.cttv.vip/947472502
+http://175.17.83.114:1234/947472502
 #EXTINF:-1 group-title="央卫咪咕",陕西卫视咪咕
-http://mg.cttv.vip/738910838
+http://175.17.83.114:1234/738910838
 #EXTINF:-1 group-title="央卫咪咕",兵团卫视咪咕
-http://mg.cttv.vip/956923145
+http://175.17.83.114:1234/956923145
 #EXTINF:-1 group-title="央卫咪咕",黑龙江视咪咕
-http://mg.cttv.vip/738906901
+http://175.17.83.114:1234/738906901
 #EXTINF:-1 group-title="欣赏频道",⬇️特闽新闻⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="欣赏频道",有线新闻欣赏
@@ -626,9 +694,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐播库抖播
 video://http://rihou.cc:555/tv/网页播库
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖26
+http://rihou.cc:555/tv/音乐库仓抖27
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖26
+http://rihou.cc:555/tv/音乐仓库抖27
 #EXTINF:-1 group-title="网页音乐",翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐",怀旧音乐抖播
