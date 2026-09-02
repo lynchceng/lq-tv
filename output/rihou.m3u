@@ -223,40 +223,6 @@ http://rihou.cc:555/tv/[4g]MO-亲子
 http://rihou.cc:555/tv/[4g]经典卡通
 #EXTINF:-1 group-title="闽南4Gtv",精选动漫4gtv
 http://rihou.cc:555/tv/[4g]精选动漫
-#EXTINF:-1 group-title="男篮01赛",09-01⬇️中国篮球“未来杯”赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="男篮01赛",19:30中国U18🆚预科学院
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="男篮01赛",国🔊01篮评述
-http://rihou.cc:555/tv/01男篮咪评述
-#EXTINF:-1 group-title="足协01赛",09-01⬇️足协杯1/4决赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="足协01赛",19:35山东泰山🆚上海海港
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="足协01赛",国🔊01足评述
-http://rihou.cc:555/tv/01足协咪评述
-#EXTINF:-1 group-title="足协01赛",19:35大连英博🆚上海申花
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="足协01赛",国🔊01足述评
-http://rihou.cc:555/tv/01足协咪述评
-#EXTINF:-1 group-title="足协01赛",19:35北京国安🆚兰州陇原
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="足协01赛",国🔊01足评评
-http://rihou.cc:555/tv/01足协咪评评
-#EXTINF:-1 group-title="意杯02赛",09-02⬇️意大利杯第二轮⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="意杯02赛",00:00帕尔马🆚克雷莫内塞
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="意杯02赛",国🔊02意评述
-http://rihou.cc:555/tv/02意杯咪评述
-#EXTINF:-1 group-title="意杯02赛",03:00都灵🆚蒙扎
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="意杯02赛",国🔊02意述评
-http://rihou.cc:555/tv/02意杯咪述评
-#EXTINF:-1 group-title="意杯02赛",21:00萨素洛🆚弗罗西诺内
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="意杯02赛",国🔊02意评评
-http://rihou.cc:555/tv/02意杯咪评评
 #EXTINF:-1 group-title="男篮02赛",09-02⬇️中国篮球“未来杯”赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="男篮02赛",19:30预科学院🆚中国U18
@@ -269,21 +235,23 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="足协02赛",国🔊02足评述
 http://rihou.cc:555/tv/02足协咪评述
-#EXTINF:-1 group-title="赛事预告",意杯03赛
+#EXTINF:-1 group-title="意杯02赛",09-02⬇️意大利杯第二轮⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",09-03⬇️意大利杯第二轮⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",00:00乌迪内斯🆚威尼斯
+#EXTINF:-1 group-title="意杯02赛",21:00萨素洛🆚弗罗西诺内
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊03意评述
+#EXTINF:-1 group-title="意杯02赛",国🔊02意评评
+http://rihou.cc:555/tv/02意杯咪评评
+#EXTINF:-1 group-title="意杯03赛",09-03⬇️意大利杯第二轮⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="意杯03赛",00:00乌迪内斯🆚威尼斯
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="意杯03赛",国🔊03意评述
 http://rihou.cc:555/tv/03意杯咪评述
-#EXTINF:-1 group-title="赛事预告",男篮03赛
+#EXTINF:-1 group-title="男篮03赛",09-03⬇️中国篮球“未来杯”赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",09-03⬇️中国篮球“未来杯”赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",19:30中国U18🆚清华附中
+#EXTINF:-1 group-title="男篮03赛",19:30中国U18🆚清华附中
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊03篮评述
+#EXTINF:-1 group-title="男篮03赛",国🔊03篮评述
 http://rihou.cc:555/tv/03男篮咪评述
 #EXTINF:-1 group-title="赛事预告",意杯04赛
 http://rihou.cc:555/tv/t
@@ -300,23 +268,23 @@ http://rihou.cc:555/tv/04意杯咪述评
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛01
+http://rihou.cc:555/tv/联赛回放赛02
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛01
+http://rihou.cc:555/tv/NBA回放赛02
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛01
+http://rihou.cc:555/tv/羽球回放赛02
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛01
+http://rihou.cc:555/tv/橄球回放赛02
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛01
+http://rihou.cc:555/tv/乒球回放赛02
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛01
+http://rihou.cc:555/tv/网球回放赛02
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛01
+http://rihou.cc:555/tv/排球回放赛02
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛01
+http://rihou.cc:555/tv/格斗回放赛02
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛01
+http://rihou.cc:555/tv/斯赛回放赛02
 #EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
 http://129.150.55.255:31905/608807420
 #EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
@@ -768,9 +736,9 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐",音乐播库抖播
 video://http://rihou.cc:555/tv/网页播库
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖01
+http://rihou.cc:555/tv/音乐库仓抖02
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖01
+http://rihou.cc:555/tv/音乐仓库抖02
 #EXTINF:-1 group-title="网页音乐",翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐",怀旧音乐抖播
