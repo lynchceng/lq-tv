@@ -7,7 +7,8 @@ def filter_m3u_playlist():
        saveChannelGroups = [line.strip() for line in f if line.strip()]
     
     # 从URL获取M3U播放列表(过滤裤佬中不需要的频道)
-    url = 'https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u'
+    #url = 'https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u'
+    url = 'https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg.m3u'
     response = requests.get(url, timeout=30)
     response.encoding = 'utf-8'
     m3u_content = response.text
